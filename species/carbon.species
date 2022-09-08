@@ -1,0 +1,215 @@
+{
+  "kind" : "carbon",
+	"charCreationTooltip" : {
+	"title" : "carbon",
+	"subTitle" : "C2",
+	"description" : "Artificial humans with replaceable mechanical parts."
+  },
+  "nameGen" : [ "/species/carbonmalenamegen.config:names", "/species/carbonfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/reploidhurt_male.ogg", "/sfx/humanoid/reploidhurt_female.ogg" ],
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Part Color", "Hair colour", "Shirt colour", "Legwear colour", "Carbon", "Personality" ],
+  "skull" : "/humanoid/carbon/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1": [
+
+      // Empty Hands
+      { "item": "flagcarbon" },
+
+      // Anvil
+      { "item": "reploidtier1head" },
+      { "item": "reploidtier1chest" },
+      { "item": "reploidtier1pants" },
+
+      { "item": "reploidtier2head" },
+      { "item": "reploidtier2chest" },
+      { "item": "reploidtier2pants" },
+
+      { "item": "beamdagger" },
+      { "item": "beamcarbine" },
+      { "item": "beampistol" },
+      { "item": "beamsaber" },
+
+      { "item": "plasmaknuckles" },
+      { "item": "plasmamagnum" },
+      { "item": "plasmarifle" },
+      { "item": "plasmatrident" },
+
+      // Anvil2
+      { "item": "reploidtier3head" },
+      { "item": "reploidtier3chest" },
+      { "item": "reploidtier3pants" },
+
+      { "item": "reploidtier4head" },
+      { "item": "reploidtier4chest" },
+      { "item": "reploidtier4pants" },
+
+      { "item": "photonaxe" },
+      { "item": "photonmachinepistol" },
+      { "item": "photonscythe" },
+      { "item": "photonshotgun" },
+
+      { "item": "ionbuster" },
+      { "item": "ioncoilgun" },
+      { "item": "ionkatar" },
+      { "item": "ionsaber" },
+
+      // Anvil3
+      { "item": "model-f" },
+      { "item": "model-h" },
+      { "item": "model-l" },
+      { "item": "model-p" },
+
+      { "item": "model-a" },
+      { "item": "model-o" },
+      { "item": "model-w" },
+      { "item": "model-x" },
+      { "item": "model-z" },
+
+      { "item": "chainrod" },
+      { "item": "recoilrod" },
+      { "item": "triplerod" },
+      { "item": "zerosaber" },
+
+      // Furniture Table 2
+      { "item": "humanstoragelocker" },
+      { "item": "carbonshipdoor" },
+      { "item": "carbonshiphatch" },
+
+      // Inventor's Table 3
+      { "item": "x-dash" },
+      { "item": "creatoraddon" },
+
+      // Spinning Wheel
+      { "item": "reploidoutfit1chest" },
+      { "item": "reploidoutfit1legs" },
+
+      { "item": "reploidoutfit2chest" },
+      { "item": "reploidoutfit2legs" },
+
+      { "item": "reploidoutfit3chest" },
+      { "item": "reploidoutfit3legs" },
+
+      { "item": "reploidoutfit4chest" },
+      { "item": "reploidoutfit4legs" }
+    ]
+  },
+  
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/carbonmaleicon.png",
+      "characterImage" : "/interface/title/carbonmale.png",
+      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
+      "shirt" : [ "reploidoutfit1chest", "reploidoutfit2chest", "reploidoutfit3chest", "reploidoutfit4chest", "transportershirt" ],
+      "pants": [ "reploidoutfit1legs", "reploidoutfit2legs", "reploidoutfit3legs", "reploidoutfit4legs", "transporterpants" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/carbonfemicon.png",
+      "characterImage" : "/interface/title/carbonfemale.png",
+      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13", "fem14", "fem15", "fem16", "fem17", "fem18", "fem19", "fem20", "fem21", "fem22", "fem23", "fem24", "fem25", "fem26", "fem27", "fem28", "fem29", "fem30", "fem31", "fem32", "fem33", "fem34", "fem35", "fem36", "fem37", "fem38", "fem39", "fem40", "fem41", "fem42", "fem43", "fem44", "fem45", "fem46", "fem47", "fem48", "fem49", "fem50", "fem51", "fem52", "fem53", "fem54", "fem55", "fem56", "fem57", "fem58", "fem59", "fem60", "fem61", "fem62", "fem63", "fem64" ],
+      "shirt": [ "reploidoutfit1chest", "reploidoutfit2chest", "reploidoutfit3chest", "reploidoutfit4chest", "transportershirt" ],
+      "pants": [ "reploidoutfit1legs", "reploidoutfit2legs", "reploidoutfit3legs", "reploidoutfit4legs", "transporterpants", "transportershorts" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    { "ffe2c5" : "ab8c77", "ffc181" : "86644a", "d39c6c" : "684431", "c7815b" : "40271d" },
+    { "ffe2c5" : "c5ad98", "ffc181" : "a47a59", "d39c6c" : "865d40", "c7815b" : "66412e" },
+    { "ffe2c5" : "e1b98d", "ffc181" : "c88959", "d39c6c" : "9e6a4d", "c7815b" : "784930" },
+    { "ffe2c5" : "c9b181", "ffc181" : "ac8348", "d39c6c" : "87633f", "c7815b" : "694c31" },
+    { "ffe2c5" : "e8cebc", "ffc181" : "cfa97d", "d39c6c" : "ae774b", "c7815b" : "804e34" },
+    { "ffe2c5" : "f4e0ba", "ffc181" : "e9b768", "d39c6c" : "c18f54", "c7815b" : "a2683d" },
+    { "ffe2c5" : "ffe9d3", "ffc181" : "ffc181", "d39c6c" : "d39c6c", "c7815b" : "b97551" },
+    { "ffe2c5" : "fbe1d4", "ffc181" : "f6baa2", "d39c6c" : "cc9582", "c7815b" : "ac7261" },
+    { "ffe2c5" : "fff7ec", "ffc181" : "f9d3a9", "d39c6c" : "d3a57c", "c7815b" : "b37c5d" },
+    { "ffe2c5" : "fff6f6", "ffc181" : "f7d5d3", "d39c6c" : "d1aaa1", "c7815b" : "a27f70" }
+  ],
+  "undyColor" : [
+    { "ffca8a" : "f0f0f0", "e0975c" : "b1b1b1", "a85636" : "747474", "6f2919" : "4c4c4c" },
+    { "ffca8a" : "d0d4e9", "e0975c" : "90a0cc", "a85636" : "566b86", "6f2919" : "314354" },
+    { "ffca8a" : "f6cccc", "e0975c" : "d57979", "a85636" : "98464d", "6f2919" : "632530" },
+    { "ffca8a" : "f9f9e9", "e0975c" : "d3d075", "a85636" : "938341", "6f2919" : "5f4d22" },
+    { "ffca8a" : "f3d9b8", "e0975c" : "d49c6f", "a85636" : "995c44", "6f2919" : "643024" },
+    { "ffca8a" : "e1f6c8", "e0975c" : "9fd776", "a85636" : "4e9944", "6f2919" : "2c6424" },
+    { "ffca8a" : "ecd2f2", "e0975c" : "bc8dd0", "a85636" : "70528b", "6f2919" : "412e59" },
+    { "ffca8a" : "f8e7f8", "e0975c" : "dca1dc", "a85636" : "9e5a9c", "6f2919" : "683267" },
+    { "ffca8a" : "ffffff", "e0975c" : "d5d3d8", "a85636" : "7d7d89", "6f2919" : "515151" },
+    { "ffca8a" : "949494", "e0975c" : "696969", "a85636" : "434343", "6f2919" : "0f0f0f" }
+  ],
+  "hairColor" : [
+    //LIGHT RED
+    { "d9c189" : "E86D46", "a38d59" : "D1422E", "735e3a" : "96201B" },
+    //RED
+    { "d9c189" : "CD1C38", "a38d59" : "982441", "735e3a" : "69243F" },
+    //DARK RED
+    { "d9c189" : "ad2716", "a38d59" : "8f1f1b", "735e3a" : "731a1a" },
+    //RUSTY RED
+    { "d9c189" : "BE471B", "a38d59" : "9B2F0C", "735e3a" : "702710" },
+    //BROWN
+    { "d9c189" : "7d3c1c", "a38d59" : "4d240b", "735e3a" : "2d1606" },
+    //LIGHT BROWN
+    { "d9c189" : "7f5a39", "a38d59" : "5b3523", "735e3a" : "3b1f15" },
+    //DIRTY ORANGE
+    { "d9c189" : "a6671d", "a38d59" : "915622", "735e3a" : "743e1d" },
+    //ORANGE
+    { "d9c189" : "efa838", "a38d59" : "be6d1d", "735e3a" : "834012" },
+    //DIRTY BLONDE
+    { "d9c189" : "eaa758", "a38d59" : "cd8b3d", "735e3a" : "93682c" },
+    //YELLOW
+    { "d9c189" : "e6e756", "a38d59" : "c7ac3f", "735e3a" : "a9882f" },
+    //BLONDE
+    { "d9c189" : "f1d992", "a38d59" : "daba5e", "735e3a" : "b59a4d" },
+    //LIGHT YELLOW
+    { "d9c189" : "f2eba3", "a38d59" : "dcd28c", "735e3a" : "c2b677" },
+    //LIGHT GREEN
+    { "d9c189" : "A7D13D", "a38d59" : "83AD22", "735e3a" : "6B880B" },
+    //GREEN
+    { "d9c189" : "4ece61", "a38d59" : "34ae47", "735e3a" : "228a38" },
+    //DARK GREEN
+    { "d9c189" : "3b7f44", "a38d59" : "2e6a38", "735e3a" : "1d4b28" },
+    //TORQUOISE
+    { "d9c189" : "5BD5B6", "a38d59" : "4AA9AD", "735e3a" : "237082" },
+    //LIGHT TURQUOISE
+    { "d9c189" : "49E193", "a38d59" : "3BA380", "735e3a" : "197C81" },
+    //LIGHT BLUE
+    { "d9c189" : "61BCDE", "a38d59" : "5381CC", "735e3a" : "2C489E" },
+    //BLUE
+    { "d9c189" : "5d8bc7", "a38d59" : "4d55b0", "735e3a" : "2e2a73" },
+    //DARK BLUE
+    { "d9c189" : "425879", "a38d59" : "343965", "735e3a" : "242247" },
+    //DARK PURPLE
+    { "d9c189" : "7f3b6d", "a38d59" : "6a2e53", "735e3a" : "4b1d30" },
+    //PURPLE
+    { "d9c189" : "653b7f", "a38d59" : "562e6a", "735e3a" : "3f1d4b" },
+    //HOT PINK
+    { "d9c189" : "cd72d9", "a38d59" : "ac4da6", "735e3a" : "913b86" },
+    //PINK
+    { "d9c189" : "D26BA4", "a38d59" : "A54669", "735e3a" : "89334D" },
+    //LIGHT PURPLE
+    { "d9c189" : "ad68e2", "a38d59" : "8d41b0", "735e3a" : "6a2980" },
+    //BROWN GREY
+    { "d9c189" : "50422f", "a38d59" : "36261e", "735e3a" : "170f0d" },
+    // DARK GREY
+    { "d9c189" : "525252", "a38d59" : "363636", "735e3a" : "161616" },
+    // GREY
+    { "d9c189" : "74726f", "a38d59" : "53504d", "735e3a" : "2a251e" },
+    // GREY BLUE
+    { "d9c189" : "6f6d85", "a38d59" : "525269", "735e3a" : "3e4352" },
+    // LIGHT GREY
+    { "d9c189" : "b8b8b8", "a38d59" : "828282", "735e3a" : "555555" },
+    // WHITE
+    { "d9c189" : "eaeaea", "a38d59" : "b8b8b8", "735e3a" : "828282" }
+  ]
+}

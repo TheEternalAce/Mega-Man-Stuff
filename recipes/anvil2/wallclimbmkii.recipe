@@ -1,0 +1,17 @@
+{
+  "input": [
+    {
+      "item": "wallclimb",
+      "count": 1
+    },
+    {
+      "item": "silverbar",
+      "count": 10
+    }
+  ],
+  "output": {
+    "item": "wallclimbmkii",
+    "count": 1
+  },
+  "groups": [ "craftinganvil2", "hazardgear", "all" ]
+}

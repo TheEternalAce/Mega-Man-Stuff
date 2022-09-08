@@ -1,0 +1,9 @@
+{
+  "input": [
+    {
+      "item": "shieldboomerang-shield", "count": 1
+    }
+  ],
+  "output" : { "item" : "shieldboomerang", "count" : 1 },
+  "groups" : [ "craftingcreator", "weapons", "all" ]
+}

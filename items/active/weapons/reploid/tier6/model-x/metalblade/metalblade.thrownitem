@@ -1,0 +1,32 @@
+{
+  "itemName": "metalblade",
+  "rarity": "Legendary",
+  "category": "throwableItem",
+  "inventoryIcon": "metalblade.png",
+  "image": "metalblade.png",
+  "shortdescription": "Metal Blade",
+  "description": "placeholder.",
+
+  "ammoUsage": 0,
+
+  "edgeTrigger": true,
+  "windupTime": 0.0,
+  "cooldown": 0.15,
+
+  "projectileType": "metalblade",
+  "projectileConfig": {
+    "speed": 75,
+    "power": 8,
+    "knockback": 10,
+
+    "persistentAudio": "/sfx/projectiles/metalblade.ogg",
+    "periodicActions": [
+      {
+        "time": 0,
+        "repeat": false,
+        "action": "sound",
+        "options": [ "/sfx/projectiles/metalblade.ogg" ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "input": [
+    {
+      "item": "triplerod", "count": 1 }
+  ],
+  "output": {
+    "item": "recoilrod", "count": 1
+  },
+  "groups" : [ "craftingcreator", "weapons", "all" ]
+}

@@ -1,0 +1,11 @@
+{
+  "itemName": "model-a",
+  "price": 20000,
+  "rarity": "legendary",
+  "category": "Tool",
+  "inventoryIcon": "model-a.png",
+  "description": "\"Ugh, I hate this name!\"",
+  "shortdescription": "Biometal Model: Albert",
+  "itemTags": [ "soul" ],
+  "scripts": [ "model-a.lua" ]
+}

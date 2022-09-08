@@ -1,0 +1,68 @@
+{
+  "itemName": "bustershot",
+  "price": 0,
+  "maxStack": 1,
+  "rarity": "Legendary",
+  "description": "I am the alpha, and Zero's my name!'",
+  "shortdescription": "Buster Shot",
+  "tooltipKind": "gun",
+  "category": "uniqueWeapon",
+  "twoHanded": false,
+  "itemTags": [ "weapon", "ranged", "pistol" ],
+  "level": 6,
+
+  "inventoryIcon": "bustershot.png:empty",
+
+  "animation": "bustershot.animation",
+  "animationParts": {
+    "gun": "bustershot.png"
+  },
+  "animationCustom": {},
+  "baseOffset": [ 0, 0 ],
+  "muzzleOffset": [ 1.25, 0.3 ],
+
+  "scripts": [ "/items/active/weapons/ranged/gun.lua" ],
+
+  "elementalType": "physical",
+
+  "primaryAbilityType": "chargefire",
+  "primaryAbility": {
+    "chargeLevels": [
+      {
+        "time": 0,
+        "energyCost": 1,
+        "cooldown": 0.1,
+        "projectileType": "bustershot-1",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 5,
+        "fireSound": "fire"
+      },
+      {
+        "time": 0.5,
+        "energyCost": 20,
+        "cooldown": 0.1,
+        "projectileType": "bustershot-2",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 10,
+        "fireSound": "fire2"
+      },
+      {
+        "time": 1.0,
+        "energyCost": 30,
+        "cooldown": 0.1,
+        "projectileType": "bustershot-3",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 15,
+        "fireSound": "fire2"
+      }
+    ]
+  },
+
+  "builder": "/items/buildscripts/buildunrandweapon.lua"
+}

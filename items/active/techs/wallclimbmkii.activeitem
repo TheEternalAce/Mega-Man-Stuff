@@ -1,0 +1,19 @@
+{
+  "itemName": "wallclimbmkii",
+  "price": 10000,
+  "level": 1,
+  "maxStack": 1,
+  "rarity": "Legendary",
+  "category": "tech",
+  "description": "Use this tech chip to discover new techs!",
+  "shortdescription": "Wall Climb II",
+  "twoHanded": true,
+  "inventoryIcon": "wallclimbmkii.png",
+  "scripts": [ "isn_tech_chip.lua" ],
+  "animation": "isn_tech_chip.animation",
+  "animationCustom": {},
+  "fireTime": 2.0,
+  "fireOffset": [ 0.0, 0.0 ],
+
+  "tech_to_unlock": "wallclimbmkii"
+}

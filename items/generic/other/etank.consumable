@@ -1,0 +1,22 @@
+{
+  "itemName" : "etank",
+  "rarity" : "Common",
+  "price" : 50,
+  "category" : "medicine",
+  "inventoryIcon" : "etank.png",
+  "description" : "The E-Tank restores all life instantly.",
+  "shortdescription" : "E-Tank",
+  "effects" : [ [
+      {
+        "effect" : "etankheal"
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "bandageuse" ],
+  "blockingEffects" : [
+    "salveheal",
+    "bandageheal",
+    "medkitheal",
+    "nanowrapheal"
+  ]
+}

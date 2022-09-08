@@ -1,0 +1,21 @@
+{
+  "projectileName": "ionbomb",
+  "image": "ionbomb.png",
+  "physics": "laser",
+  "animationCycle": 0.25,
+  "frameNumber": 1,
+  "damageKind": "standardbullet",
+  "lightColor": [ 0, 0, 0 ],
+  "timeToLive": 5,
+  "piercing": false,
+  "pointLight": false,
+  "flippable": true,
+  "actionOnReap": [
+    {
+      "action": "config",
+      "file": "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power": 5.0,
+  "speed": 150
+}

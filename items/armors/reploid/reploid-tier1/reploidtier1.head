@@ -1,0 +1,129 @@
+{
+  "itemName": "reploidtier1head",
+  "price": 480,
+  "inventoryIcon": "icons.png:head",
+  "maxStack": 1,
+  "rarity": "Common",
+  "category": "headarmour",
+  "description": "placeholder.",
+  "shortdescription": "Novice Operator's Headset",
+  "tooltipKind": "armor",
+
+  "maleFrames": "head.png",
+  "femaleFrames": "head.png",
+  "mask": "mask.png",
+
+  "level": 1,
+  "leveledStatusEffects": [
+    {
+      "levelFunction": "standardArmorLevelPowerMultiplierMultiplier",
+      "stat": "powerMultiplier",
+      "baseMultiplier": 1.15
+    },
+    {
+      "levelFunction": "standardArmorLevelProtectionMultiplier",
+      "stat": "protection",
+      "amount": 0.3
+    },
+    {
+      "levelFunction": "standardArmorLevelMaxEnergyMultiplier",
+      "stat": "maxEnergy",
+      "amount": 3
+    },
+    {
+      "levelFunction": "standardArmorLevelMaxHealthMultiplier",
+      "stat": "maxHealth",
+      "amount": 3
+    }
+  ],
+
+  "itemTags": [ "tier1armour" ],
+
+  "colorOptions": [
+    // Light to dark
+    // DEFAULT (LIGHT BLUE)
+    {
+      "ffca8a": "bff3ff",
+      "e0975c": "6ce3ff",
+      "a85636": "14b3d9",
+      "6f2919": "0087a7"
+    },
+    // BLACK
+    {
+      "ffca8a": "4a4a4a",
+      "e0975c": "303030",
+      "a85636": "1c1c1c",
+      "6f2919": "000000"
+    },
+    // GREY
+    {
+      "ffca8a": "999999",
+      "e0975c": "7a7a7a",
+      "a85636": "424242",
+      "6f2919": "1c1c1c"
+    },
+    // WHITE
+    {
+      "ffca8a": "ffffff",
+      "e0975c": "cccccc",
+      "a85636": "7a7a7a",
+      "6f2919": "424242"
+    },
+    // RED
+    {
+      "ffca8a": "ff7c7c",
+      "e0975c": "ce3d3d",
+      "a85636": "a71212",
+      "6f2919": "7a0000"
+    },
+    // ORANGE
+    {
+      "ffca8a": "ff9c78",
+      "e0975c": "ce5a30",
+      "a85636": "a73810",
+      "6f2919": "7a2000"
+    },
+    // YELLOW
+    {
+      "ffca8a": "fff77c",
+      "e0975c": "cac13f",
+      "a85636": "a49a0f",
+      "6f2919": "817900"
+    },
+    // GREEN
+    {
+      "ffca8a": "83ff97",
+      "e0975c": "3bd152",
+      "a85636": "1ba030",
+      "6f2919": "008114"
+    },
+    // BLUE
+    {
+      "ffca8a": "9383ff",
+      "e0975c": "4735c6",
+      "a85636": "210fa0",
+      "6f2919": "0e0072"
+    },
+    // PURPLE
+    {
+      "ffca8a": "cb87ff",
+      "e0975c": "933cd5",
+      "a85636": "6913ab",
+      "6f2919": "4c0085"
+    },
+    // PINK
+    {
+      "ffca8a": "ff8bd0",
+      "e0975c": "be3b89",
+      "a85636": "b31674",
+      "6f2919": "85004f"
+    },
+    // BROWN
+    {
+      "ffca8a": "893b00",
+      "e0975c": "582804",
+      "a85636": "391f0c",
+      "6f2919": "2e1d11"
+    }
+  ]
+}

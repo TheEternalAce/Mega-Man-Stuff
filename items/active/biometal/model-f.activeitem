@@ -1,0 +1,11 @@
+{
+  "itemName": "model-f",
+  "price": 20000,
+  "rarity": "Rare",
+  "category": "Tool",
+  "inventoryIcon": "model-f.png",
+  "description": "placeholder.",
+  "shortdescription": "Biometal Model: Fefnir",
+  "itemTags": [ "soul" ],
+  "scripts": [ "model-f.lua" ]
+}

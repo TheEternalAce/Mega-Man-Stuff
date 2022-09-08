@@ -1,0 +1,42 @@
+{
+  "itemName": "frostjavelin",
+  "price": 0,
+  "level": 2,
+  "maxStack": 1,
+  "rarity": "Rare",
+  "description": "placeholder",
+  "shortdescription": "Frost Javelin",
+  "tooltipKind": "sword",
+  "category": "spear",
+  "twoHanded": true,
+  "itemTags": [ "weapon", "melee", "spear" ],
+
+  "inventoryIcon": "frostjavelin.png",
+
+  "animation": "/items/active/weapons/melee/spear/spear.animation",
+  "animationParts": {
+    "handle": "",
+    "blade": "frostjavelin.png"
+  },
+  "animationCustom": {
+    "sounds": {
+      "fire": [ "/sfx/melee/swing_spear.ogg" ]
+    }
+  },
+  "scripts": [ "/items/active/weapons/melee/meleeweapon.lua" ],
+
+  "activeTime": 0.25,
+
+  "elementalType": "physical",
+
+  "aimOffset": -1.0,
+  "primaryAbilityType": "spearstab",
+  "primaryAbility": {
+    "fireTime": 0.95,
+    "baseDps": 10.5
+  },
+
+  "altAbilityType": "flurry",
+
+  "builder": "/items/buildscripts/buildunrandweapon.lua"
+}

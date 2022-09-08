@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/upgradeStages/2/addonConfig/usesAddons/-",
+    "value": {
+      "name": "creatorAddon",
+      "position": [ 0, 3 ],
+      "addonData": {
+        "animationState": "creator",
+        "interactData": {
+          "paneLayoutOverride": {
+            "windowtitle": {
+              "title": "Creator's Table",
+              "icon": {
+                "file": "/interface/crafting/creatortable.png"
+              }
+            }
+          },
+          "filter": [ "craftinganvil", "craftinganvil2", "craftinganvil3", "craftingcreator" ]
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "globalTagDefaults" : {
+    "species" : "reploid"
+  },
+
+  "animatedParts" : {
+    "parts" : {
+      "ship" : {
+        "properties" : {
+          "centered" : false,
+          "image" : "protectorateship<species>.png"
+        }
+      }
+    }
+  }
+}

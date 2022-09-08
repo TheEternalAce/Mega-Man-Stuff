@@ -1,0 +1,15 @@
+{
+  "id": "wallclimbquest",
+  "title": "You aren't supposed to read this!",
+  "text": "You aren't supposed to read this!",
+  "completionText": "You aren't supposed to read this!",
+  "moneyRange": [ 0, 0 ],
+  "canBeAbandoned": false,
+  "showAcceptDialog": false,
+  "showCompleteDialog": false,
+  "showFailDialog": false,
+  "showInLog": false,
+
+  "updateDelta": 10,
+  "script": "/quests/scripts/initialquests/techenable.lua"
+}

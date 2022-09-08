@@ -1,0 +1,17 @@
+{
+  "name" : "etankheal",
+  "effectConfig" : {
+    "healAmount" : 1000,
+    "emissionRate" : 2
+  },
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "/stats/effects/heal/heal.lua"
+  ],
+
+  "animationConfig" : "/stats/effects/heal/heal.animation",
+
+  "label" : "Healing",
+  "icon" : "/interface/statuses/heal.png"
+}

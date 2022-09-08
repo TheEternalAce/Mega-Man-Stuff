@@ -1,0 +1,20 @@
+[
+	{
+		"op" : "add",
+		"path" : "/species/reploid",
+		"value" : {
+			"aiFrames" : "reploidAI.png",
+			"portraitFrames" : "portraits/reploidportrait.png",
+			"staticFrames" : "staticreploid.png"	
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/species/carbon",
+		"value" : {
+			"aiFrames" : "reploidAI.png",
+			"portraitFrames" : "portraits/reploidportrait.png",
+			"staticFrames" : "staticreploid.png"
+		}
+	}
+]

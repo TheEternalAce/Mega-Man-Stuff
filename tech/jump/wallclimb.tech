@@ -1,0 +1,31 @@
+{
+  "name" : "wallclimb",
+  "type" : "legs",
+
+  "scripts" : ["walljump.lua"],
+  "animator" : "walljump.animation",
+
+  "description" : "Lets you climb up vertical walls!",
+  "shortDescription" : "Wall Climb",
+  "rarity" : "Legendary",
+  "icon" : "/tech/wallclimb.png",
+
+  "chipCost" : 0,
+
+  "multiJumpCount" : 0,
+
+  "wallSensors" : [1.0, 1.75, 2.5],
+  "wallDetectThreshold" : 1,
+
+  "wallReleaseTime" : 0.15,
+
+  "wallGrabFreezeTime" : 0.15,
+  "wallJumpXVelocity" : 7,
+  "wallSlideParameters" : {
+    "airJumpProfile" : {
+      "jumpInitialPercentage" : 1.0
+    },
+    "airForce" : 0,
+    "airFriction" : 10.0
+  }
+}

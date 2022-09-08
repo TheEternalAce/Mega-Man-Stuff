@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "nanowrap", "count" : 2 },
+    { "item" : "durasteelbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "etank",
+    "count" : 5
+  },
+  "groups" : [ "craftingmedical2", "healing" ]
+}

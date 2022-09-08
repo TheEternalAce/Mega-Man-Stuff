@@ -1,0 +1,10 @@
+{
+  "input": [
+    { "item": "refinedferozium", "count": 10 },
+    { "item": "refinedviolium", "count": 10 },
+    { "item": "bluedye", "count": 1 },
+    { "item": "liquidwater", "count": 100 }
+  ],
+  "output" : { "item" : "model-l", "count" : 1 },
+  "groups" : [ "craftinganvil3", "biometal", "all" ]
+}

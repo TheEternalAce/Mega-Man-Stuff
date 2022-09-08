@@ -1,0 +1,33 @@
+{
+  "itemName": "recoilrod",
+  "price": 0,
+  "Level": 6,
+  "maxStack": 1,
+  "rarity": "Legendary",
+  "description": "placeholder.",
+  "shortdescription": "Recoil Rod",
+  "tooltipKind": "sword",
+  "category": "broadsword",
+  "twoHanded": true,
+  "itemTags": [ "weapon", "melee", "broadsword" ],
+  "inventoryIcon": "recoilrod.png",
+  "animation": "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts": {
+    "handle": "",
+    "blade": "recoilrod.png"
+  },
+  "animationCustom": {},
+  "baseOffset": [ 0.0, 0.0 ],
+  "scripts": [ "/items/active/weapons/melee/meleeweapon.lua" ],
+
+  "elementalType": "physical",
+  "primaryAbilityType": "broadswordcombo",
+  "primaryAbility": {
+    "fireTime": 0.5,
+    "baseDps": 44
+  },
+
+  "altAbilityType": "downstab",
+
+  "builder": "/items/buildscripts/buildunrandweapon.lua"
+}

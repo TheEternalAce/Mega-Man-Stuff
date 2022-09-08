@@ -1,0 +1,11 @@
+{
+  "itemName": "model-p",
+  "price": 20000,
+  "rarity": "Rare",
+  "category": "Tool",
+  "inventoryIcon": "model-p.png",
+  "description": "placeholder.",
+  "shortdescription": "Biometal Model: Phantom",
+  "itemTags": [ "soul" ],
+  "scripts": [ "model-p.lua" ]
+}

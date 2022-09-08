@@ -1,0 +1,11 @@
+{
+  "itemName": "model-w-pr",
+  "price": 20000,
+  "rarity": "legendary",
+  "category": "Tool",
+  "inventoryIcon": "model-w.png",
+  "description": "Prometheus Variant",
+  "shortdescription": "Biometal Model: Wile",
+  "itemTags": [ "soul" ],
+  "scripts": [ "model-w-pr.lua" ]
+}

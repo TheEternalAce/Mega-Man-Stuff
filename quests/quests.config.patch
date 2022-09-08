@@ -1,0 +1,18 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/reploid",
+		"value": [
+			"protectorate",
+			"wallclimbquest"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/reploid",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

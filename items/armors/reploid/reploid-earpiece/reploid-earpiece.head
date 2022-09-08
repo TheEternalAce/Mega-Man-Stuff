@@ -1,0 +1,15 @@
+{
+  "itemName" : "reploid-earpiece",
+  "price" : 480,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "A model of an earpiece that reploids tend to wear, fashioned to comfortably fit your ear.",
+  "shortdescription" : "Reploid Ear Piece",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

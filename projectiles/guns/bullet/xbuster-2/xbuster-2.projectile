@@ -1,0 +1,18 @@
+{
+  "projectileName": "xbuster-2",
+  "image": "xbuster-2.png",
+  "animationCycle": 0.25,
+  "frameNumber": 1,
+  "damageKindImage": "icon.png",
+  "lightColor": [ 0, 255, 160 ],
+  "timeToLive": 5,
+  "actionOnReap": [
+    {
+      "action": "config",
+      "file": "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power": 5.0,
+  "speed": 75,
+  "damageKind": "default"
+}

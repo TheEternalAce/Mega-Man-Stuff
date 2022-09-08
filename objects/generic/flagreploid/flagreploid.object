@@ -1,0 +1,52 @@
+{
+  "objectName" : "flagreploid",
+  "colonyTags" : ["reploid"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "The flag of the Reploids. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Reploid Flag",
+  "race" : "reploid",
+
+  "apexDescription" : "A reploid flag. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This reploid flag can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "reploid flag makess good point to teleport back to ussing teleporter!",
+  "glitchDescription" : "Observant. A small locator module attached to this reploid flag allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This reploid flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+  "hylotlDescription" : "This reploid flag can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this reploid flag for quick teleportin'.",
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+
+  "inventoryIcon" : "flagreploidicon.png",
+  "orientations" : [
+    {
+      "image" : "flagreploid.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flagreploid.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

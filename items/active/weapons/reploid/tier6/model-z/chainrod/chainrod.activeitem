@@ -1,0 +1,53 @@
+{
+  "itemName": "chainrod",
+  "price": 0,
+  "level": 6,
+  "maxStack": 1,
+  "rarity": "Legendary",
+  "description": "Disappear!",
+  "shortdescription": "Chain Rod",
+  "tooltipKind": "sword",
+  "category": "whip",
+  "twoHanded": false,
+  "itemTags": [ "weapon" ],
+  "inventoryIcon": "chainrod.png:idle",
+  "animation": "/items/active/weapons/whip/whip.animation",
+  "animationParts": {
+    "weapon": "chainrod.png",
+    "weaponFullbright": "chainrodfullbright.png"
+  },
+  "animationCustom": {
+    "lights": {
+      "glow": {
+        "active": true,
+        "position": [ 0.75, 0.5 ],
+        "color": [ 40, 73, 117 ]
+      }
+    },
+    "particleEmitters": { "crack": { "particles": [] } },
+    "sounds": {
+      "swing": [ "/sfx/melee/energywhip_swing1.ogg", "/sfx/melee/energywhip_swing2.ogg", "/sfx/melee/energywhip_swing3.ogg" ],
+      "crack": [ "/sfx/melee/energywhip_impact1.ogg", "/sfx/melee/energywhip_impact2.ogg", "/sfx/melee/energywhip_impact3.ogg" ]
+    }
+  },
+  "chain": {
+    "startOffset": [ 0.625, 0 ],
+    "length": [ 3, 12 ],
+    "segmentImage": "/items/active/weapons/reploid/tier6/model-z/chainrod/chain.png",
+    "endSegmentImage": "/items/active/weapons/reploid/tier6/model-z/chainrod/end.png",
+    "segmentSize": 0.375,
+    "fullbright": true
+  },
+  "scripts": [ "/items/active/weapons/whip/whip.lua" ],
+  "primaryAbilityType": "whipcrack",
+  "primaryAbility": {
+    "fireTime": 0.8,
+    "chainDps": 8,
+    "crackDps": 2.5,
+    "damageConfig": {
+      "damageSourceKind": "electric"
+    },
+    "projectileType": "whipcrackelectric"
+  },
+  "builder": "/items/buildscripts/buildwhip.lua"
+}

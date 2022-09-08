@@ -1,0 +1,11 @@
+{
+  "itemName": "model-l",
+  "price": 20000,
+  "rarity": "Rare",
+  "category": "Tool",
+  "inventoryIcon": "model-l.png",
+  "description": "placeholder.",
+  "shortdescription": "Biometal Model: Leviathan",
+  "itemTags": [ "soul" ],
+  "scripts": [ "model-l.lua" ]
+}

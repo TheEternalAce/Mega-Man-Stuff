@@ -1,0 +1,66 @@
+{
+  "objectName": "creatoraddon",
+  "colonyTags": [ "crafting" ],
+  "rarity": "Legendary",
+  "category": "crafting",
+  "price": 1250,
+  "description": "A module that adds Biometal to the replicator.",
+  "shortdescription": "^orange;Creator Addon^white;",
+  "race": "generic",
+
+  "apexDescription": "How useful, this will add Biometal to the replicator.",
+  "avianDescription": "I can use this to add Biometal to the replicator.",
+  "floranDescription": "Floran use thisss to add more thingss to replicator.",
+  "glitchDescription": "Excited. Using this module will add Biometal to the replicator.",
+  "humanDescription": "Using this adds Biometal to the replicator!",
+  "hylotlDescription": "This useful module will add Biometal to the replicator.",
+  "novakidDescription": "This handy ol' module will add even more to the replicator.",
+
+  "printable": false,
+
+  "placementImage": "creatoraddonpreview.png",
+  "placementImagePosition": [ -24, -24 ],
+
+  "inventoryIcon": "creatoraddonicon.png",
+  "orientations": [
+    {
+      "direction": "left",
+      "image": "creatoraddon.png:<color>",
+
+      "imagePosition": [ -8, 0 ],
+
+      "spaces": [
+        [ -1, 0 ],
+        [ 0, 0 ],
+        [ -1, 1 ],
+        [ 0, 1 ],
+        [ -1, 2 ],
+        [ 0, 2 ]
+      ],
+
+      "fgAnchors": [
+        [ -1, -1 ],
+        [ 0, -1 ]
+      ],
+      "anchorMaterial": "metamaterial:anviladdonbase"
+    }
+  ],
+
+  "forceFinishAnimationsInInit": false,
+  "animation": "/objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/anviladdon.animation",
+  "animationPosition": [ -8, 0 ],
+  "animationParts": {
+    "addon": "creatoraddon.png",
+    "addonfullbright": "creatoraddonfullbright.png"
+  },
+
+  "scripts": [ "/scripts/objectaddons.lua", "/objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/anviladdon.lua" ],
+
+  "addonConfig": {
+    "isAddons": [
+      {
+        "name": "creatorAddon"
+      }
+    ]
+  }
+}

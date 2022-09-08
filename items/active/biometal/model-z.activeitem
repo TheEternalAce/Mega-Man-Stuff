@@ -1,0 +1,11 @@
+{
+  "itemName": "model-z",
+  "price": 20000,
+  "rarity": "legendary",
+  "category": "Tool",
+  "inventoryIcon": "model-z.png",
+  "description": "\"What am I fighting for!?\"",
+  "shortdescription": "Biometal Model: Zero",
+  "itemTags": [ "soul" ],
+  "scripts": [ "model-z.lua" ]
+}

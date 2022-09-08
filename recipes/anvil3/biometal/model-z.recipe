@@ -1,0 +1,9 @@
+{
+  "input": [
+    { "item": "solariumstar", "count": 40 },
+    { "item": "refinedviolium", "count": 20 },
+    { "item": "reddye", "count": 1 }
+  ],
+  "output" : { "item" : "model-z", "count" : 1 },
+  "groups" : [ "craftingcreator", "biometal", "all" ]
+}

@@ -1,0 +1,226 @@
+[
+  // Tier 1 Armor
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier1head" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier1chest" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier1pants" }
+  },
+
+  // Tier 1 Weapon
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "beamdagger" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "beamcarbine" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "beampistol" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "beamsaber" }
+  },
+
+  // Tier 2 Armor
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier2head" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier2chest" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier2pants" }
+  },
+
+  // Tier 2 Weapon
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "plasmaknuckles" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "plasmamagnum" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "plasmarifle" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "plasmatrident" }
+  },
+
+  // Tier 3 Armor
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier3head" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier3chest" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier3pants" }
+  },
+
+  // Tier 3 Weapon
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "photonaxe" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "photonmachinepistol" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "photonscythe" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "photonshotgun" }
+  },
+
+  // Tier 4 Armor
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier4head" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier4chest" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "reploidtier4pants" }
+  },
+
+  // Tier 4 Weapon
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "ionbuster" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "ioncoilgun" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "ionkatar" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "ionsaber" }
+  },
+
+  // Biometals
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-1" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-f" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-h" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-l" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-o" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-p" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-w" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-x" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "model-z" }
+  },
+
+  // Zero Weapon Conversions
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "chainrod" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "recoilrod" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "triplerod" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "zerosaber" }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "op": "add",
+    "path": "/animatedParts/stateTypes/stage/states/creator",
+    "value": {
+      "properties": {
+        "lightsOff": [],
+        "lightsOn": [ "replicatorglow", "acceleratorglow", "separatorglow", "manipulatorglow" ]
+      }
+
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/lights/partStates/stage/creator",
+    "value": {
+      "properties": {
+        "image": "replicatorcreator.png:<color>.creator"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/animatedParts/parts/chassis/partStates/stage/creator",
+    "value": {
+      "properties": {
+        "image": "replicatorcreator.png:<color>"
+      }
+    }
+  }
+]

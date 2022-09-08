@@ -1,0 +1,10 @@
+{
+  "input": [
+    { "item": "solariumstar", "count": 40 },
+    { "item": "refinedferozium", "count": 20 },
+    { "item": "purpledye", "count": 1 },
+    { "item": "orangedye", "count": 1 }
+  ],
+  "output" : { "item" : "model-w-pa", "count" : 1 },
+  "groups" : [ "craftingcreator", "biometal", "all" ]
+}

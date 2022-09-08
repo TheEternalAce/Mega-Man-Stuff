@@ -1,0 +1,11 @@
+{
+  "itemName": "model-w-pa",
+  "price": 20000,
+  "rarity": "legendary",
+  "category": "Tool",
+  "inventoryIcon": "model-w.png",
+  "description": "Pandora Variant",
+  "shortdescription": "Biometal Model: Wile",
+  "itemTags": [ "soul" ],
+  "scripts": [ "model-w-pa.lua" ]
+}

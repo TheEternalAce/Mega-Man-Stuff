@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "maxFuel" : 1000,
+      "crewSize" : 12
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "reploidT8.png",
+      "position" : [8.39, 1.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "reploidT8lit.png",
+      "position" : [8.39, 1.75]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "reploidT8blocks.png"
+}

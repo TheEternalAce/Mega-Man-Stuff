@@ -1,0 +1,15 @@
+{
+  "itemName": "reploid-antenna",
+  "price": 480,
+  "inventoryIcon": "icons.png:head",
+  "maxStack": 1,
+  "rarity": "Common",
+  "category": "headarmour",
+  "description": "A model of an antenna that reploids tend to wear, fashioned to comfortably fit your ear.",
+  "shortdescription": "Reploid Antenna",
+  "tooltipKind": "armor",
+
+  "maleFrames": "head.png",
+  "femaleFrames": "head.png",
+  "mask": "mask.png"
+}

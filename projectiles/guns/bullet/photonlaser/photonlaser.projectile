@@ -1,0 +1,20 @@
+{
+  "projectileName": "photonlaser",
+  "image": "photonlaser.png",
+  "physics": "laser",
+  "animationCycle": 0.25,
+  "frameNumber": 1,
+  "damageKind": "standardbullet",
+  "lightColor": [ 255, 255, 0 ],
+  "timeToLive": 5,
+  "pointLight": false,
+  "flippable": true,
+  "actionOnReap": [
+    {
+      "action": "config",
+      "file": "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power": 5.0,
+  "speed": 150
+}

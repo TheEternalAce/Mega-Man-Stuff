@@ -1,0 +1,18 @@
+{
+  "projectileName": "bustershot-1",
+  "image": "bustershot-1.png",
+  "animationCycle": 0.25,
+  "frameNumber": 1,
+  "damageKindImage": "icon.png",
+  "lightColor": [ 255, 226, 0 ],
+  "timeToLive": 5,
+  "actionOnReap": [
+    {
+      "action": "config",
+      "file": "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power": 5.0,
+  "speed": 75,
+  "damageKind": "default"
+}

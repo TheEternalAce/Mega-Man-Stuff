@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/speciesShips/reploid",
+    "value": [
+      "/ships/reploid/reploidt0.structure",
+      "/ships/reploid/reploidt1.structure",
+      "/ships/reploid/reploidt2.structure",
+      "/ships/reploid/reploidt3.structure",
+      "/ships/reploid/reploidt4.structure",
+      "/ships/reploid/reploidt5.structure",
+      "/ships/reploid/reploidt6.structure",
+      "/ships/reploid/reploidt7.structure",
+      "/ships/reploid/reploidt8.structure"
+    ]
+  }
+]

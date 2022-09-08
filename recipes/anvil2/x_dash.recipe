@@ -1,0 +1,13 @@
+{
+  "input": [
+    {
+      "item": "techcard",
+      "count": 8
+    }
+  ],
+  "output": {
+    "item": "x_dash",
+    "count": 1
+  },
+  "groups": [ "craftinganvil2", "hazardgear", "all" ]
+}

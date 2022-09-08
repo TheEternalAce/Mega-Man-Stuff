@@ -1,0 +1,69 @@
+{
+  "itemName": "ionbuster",
+  "price": 0,
+  "maxStack": 1,
+  "rarity": "Uncommon",
+  "description": "placeholder.",
+  "shortdescription": "Ion Buster",
+  "tooltipKind": "gun",
+  "category": "uniqueWeapon",
+  "twoHanded": false,
+  "itemTags": [ "weapon", "ranged", "pistol" ],
+  "level": 4,
+
+  "inventoryIcon": "ionbuster.png:empty",
+
+  "animation": "ionbuster.animation",
+  "animationParts": {
+    "gun": "ionbuster.png"
+  },
+  "animationCustom": {},
+  "muzzleOffset": [ 2.0, 0.0 ],
+
+  "handGrip": "wrap",
+
+  "scripts": [ "/items/active/weapons/ranged/gun.lua" ],
+
+  "elementalType": "physical",
+
+  "primaryAbilityType": "chargefire",
+  "primaryAbility": {
+    "chargeLevels": [
+      {
+        "time": 0,
+        "energyCost": 1,
+        "cooldown": 0.1,
+        "projectileType": "ionlaser",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 5,
+        "fireSound": "fire"
+      },
+      {
+        "time": 0.5,
+        "energyCost": 20,
+        "cooldown": 0.1,
+        "projectileType": "ionbomb",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 10,
+        "fireSound": "fire2"
+      },
+      {
+        "time": 1.0,
+        "energyCost": 30,
+        "cooldown": 0.1,
+        "projectileType": "ionarrow",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 15,
+        "fireSound": "fire3"
+      }
+    ]
+  },
+
+  "builder": "/items/buildscripts/buildunrandweapon.lua"
+}

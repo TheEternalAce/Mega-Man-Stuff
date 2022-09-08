@@ -1,0 +1,19 @@
+{
+  "projectileName": "mms-fireball",
+  "image": "fireball.png",
+  "animationCycle": 0.25,
+  "frameNumber": 1,
+  "damageKindImage": "icon.png",
+  "piercing": true,
+  "lightColor": [ 255, 0, 0 ],
+  "timeToLive": 5,
+  "actionOnReap": [
+    {
+      "action": "config",
+      "file": "/projectiles/explosions/smoke/smoke.config"
+    }
+  ],
+  "power": 5.0,
+  "speed": 75,
+  "damageKind": "fire"
+}

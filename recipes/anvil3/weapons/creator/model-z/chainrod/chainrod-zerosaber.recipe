@@ -1,0 +1,7 @@
+{
+  "input": [
+    { "item": "zerosaber", "count": 1 }
+  ],
+  "output" : { "item" : "chainrod", "count" : 1 },
+  "groups" : [ "craftingcreator", "weapons", "all" ]
+}

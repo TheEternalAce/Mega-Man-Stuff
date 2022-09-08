@@ -1,0 +1,10 @@
+{
+  "input": [
+    { "item": "solariumstar", "count": 40 },
+    { "item": "refinedviolium", "count": 10 },
+    { "item": "refinedaegisalt", "count": 10 },
+    { "item": "reddye", "count": 1 }
+  ],
+  "output" : { "item" : "model-a", "count" : 1 },
+  "groups" : [ "craftingcreator", "biometal", "all" ]
+}

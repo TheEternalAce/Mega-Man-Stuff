@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/reploidStarterTreasure",
+    "value": [[0, {
+      "fill": [
+        { "pool": "starterTreasure" },
+        { "item": [ "reploid-antenna", 1 ] },
+        { "item": [ "reploid-earpiece", 1 ] }
+      ]
+    }]]
+  }
+]

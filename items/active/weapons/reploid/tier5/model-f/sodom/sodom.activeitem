@@ -1,0 +1,67 @@
+{
+  "itemName": "sodom",
+  "price": 0,
+  "maxStack": 1,
+  "rarity": "Rare",
+  "description": "placeholder.",
+  "shortdescription": "Sodom",
+  "tooltipKind": "gun",
+  "category": "uniqueWeapon",
+  "twoHanded": false,
+  "itemTags": [ "weapon", "ranged", "pistol" ],
+  "level": 5,
+
+  "inventoryIcon": "sodom.png:empty",
+
+  "animation": "sodom.animation",
+  "animationParts": {
+    "gun": "sodom.png"
+  },
+  "animationCustom": {},
+  "muzzleOffset": [ 2.0, 0.0 ],
+
+  "scripts": [ "/items/active/weapons/ranged/gun.lua" ],
+
+  "elementalType": "physical",
+
+  "primaryAbilityType": "chargefire",
+  "primaryAbility": {
+    "chargeLevels": [
+      {
+        "time": 0,
+        "energyCost": 0.5,
+        "cooldown": 0.25,
+        "projectileType": "mms-fireball",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 2,
+        "fireSound": "fire2"
+      },
+      {
+        "time": 0.5,
+        "energyCost": 10,
+        "cooldown": 0.1,
+        "projectileType": "mms-fireball",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 4,
+        "fireSound": "fire2"
+      },
+      {
+        "time": 1.0,
+        "energyCost": 15,
+        "cooldown": 0.1,
+        "projectileType": "fireball_big",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 8,
+        "fireSound": "fire2"
+      }
+    ]
+  },
+
+  "builder": "/items/buildscripts/buildunrandweapon.lua"
+}

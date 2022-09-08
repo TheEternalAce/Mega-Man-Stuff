@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "transporterbikecontroller" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "transporterhoverbikecontroller" }
+  }
+]

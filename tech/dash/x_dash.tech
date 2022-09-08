@@ -1,0 +1,22 @@
+{
+  "name": "x_dash",
+  "type": "body",
+
+  "scripts": [ "x_dash.lua" ],
+  "animator": "x_dash.animation",
+
+  "description": "Double tap ^green;[A]^white; or ^green;[D] ^white;to quickly dash! Cooldown: 0.8s",
+  "shortDescription": "Dash (^#c0f863;X^reset;)",
+  "rarity": "Uncommon",
+  "icon": "/tech/x_dash.png",
+
+  "chipCost": 2,
+
+  "maximumDoubleTapTime": 0.25,
+  "dashControlForce": 2000,
+  "dashSpeed": 40,
+  "dashDuration": 0.5,
+  "dashCooldown": 0.0,
+  "stopAfterDash": false,
+  "groundOnly": true
+}

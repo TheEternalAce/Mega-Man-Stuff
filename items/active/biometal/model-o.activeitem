@@ -1,0 +1,11 @@
+{
+  "itemName": "model-o",
+  "price": 20000,
+  "rarity": "legendary",
+  "category": "Tool",
+  "inventoryIcon": "model-o.png",
+  "description": "\"I am the messiah! Hahahaha!\"",
+  "shortdescription": "Biometal Model: Omega",
+  "itemTags": [ "soul" ],
+  "scripts": [ "model-o.lua" ]
+}
