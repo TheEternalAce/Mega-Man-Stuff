@@ -81,17 +81,17 @@
       { "item": "creatoraddon" },
 
       // Spinning Wheel
-      { "item": "reploidoutfit1chest" },
-      { "item": "reploidoutfit1legs" },
+      { "item": "conceptchest" },
+      { "item": "conceptlegs" },
 
-      { "item": "reploidoutfit2chest" },
-      { "item": "reploidoutfit2legs" },
+      { "item": "coolchest" },
+      { "item": "coollegs" },
 
-      { "item": "reploidoutfit3chest" },
-      { "item": "reploidoutfit3legs" },
+      { "item": "sweatervestchest" },
+      { "item": "sweatervestlegs" },
 
-      { "item": "reploidoutfit4chest" },
-      { "item": "reploidoutfit4legs" }
+      { "item": "workoutchest" },
+      { "item": "workoutlegs" }
     ]
   },
   
@@ -104,8 +104,8 @@
       "image" : "/interface/title/reploidmaleicon.png",
       "characterImage" : "/interface/title/reploidmale.png",
       "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
-      "shirt" : [ "reploidoutfit1chest", "reploidoutfit2chest", "reploidoutfit3chest", "reploidoutfit4chest", "transportershirt" ],
-      "pants": [ "reploidoutfit1legs", "reploidoutfit2legs", "reploidoutfit3legs", "reploidoutfit4legs", "transporterpants" ],
+      "shirt" : [ "conceptchest", "coolchest", "sweatervestchest", "workoutchest", "transportershirt" ],
+      "pants": [ "conceptlegs", "coollegs", "sweatervestlegs", "workoutlegs", "transportershorts" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",

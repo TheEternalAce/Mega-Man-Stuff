@@ -4,6 +4,6 @@
     { "item" : "canvas", "count" : 1 }
   ],
   "duration" : 5,
-  "output" : { "item" : "reploidtier3pants", "count" : 1 },
+  "output" : { "item" : "megaman_reploidtier3pants", "count" : 1 },
   "groups" : [ "craftinganvil2", "armours", "all" ]
 }

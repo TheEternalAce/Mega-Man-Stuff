@@ -1,10 +1,10 @@
 {
-  "itemName": "handcannon-charge",
+  "itemName": "megaman_handcannon-charge",
   "price": 0,
   "maxStack": 1,
   "rarity": "Legendary",
   "description": "This handcannon is capable of firing charged shots.",
-  "shortdescription": "Handcannon",
+  "shortdescription": "Handcannon (Charge Mode)",
   "tooltipKind": "gun",
   "category": "uniqueWeapon",
   "twoHanded": false,

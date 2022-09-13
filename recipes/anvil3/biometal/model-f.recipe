@@ -6,6 +6,6 @@
     { "item": "orangedye", "count": 1 },
     { "item": "scorchedcore", "count": 2 }
   ],
-  "output" : { "item" : "model-f", "count" : 1 },
+  "output" : { "item" : "megaman_model-f", "count" : 1 },
   "groups" : [ "craftinganvil3", "biometal", "all" ]
 }

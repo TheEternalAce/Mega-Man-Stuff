@@ -1,5 +1,5 @@
 {
-  "itemName" : "reploidtier2chest",
+  "itemName" : "megaman_reploidtier2chest",
   "price" : 2400,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,

@@ -3,6 +3,6 @@
     { "item" : "durasteelbar", "count" : 6 },
     { "item" : "copperbar", "count" : 4 }
   ],
-  "output" : { "item" : "ioncoilgun", "count" : 1 },
+  "output" : { "item" : "megaman_ioncoilgun", "count" : 1 },
   "groups" : [ "craftinganvil3", "weapons", "all" ]
 }

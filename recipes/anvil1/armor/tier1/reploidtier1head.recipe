@@ -4,6 +4,6 @@
     { "item" : "fabric", "count" : 5 }  
   ],
   "duration" : 5,
-  "output" : { "item" : "reploidtier1head", "count" : 1 },
+  "output" : { "item" : "megaman_reploidtier1head", "count" : 1 },
   "groups" : [ "craftinganvil", "armours", "all" ]
 }

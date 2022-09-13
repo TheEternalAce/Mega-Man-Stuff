@@ -1,11 +1,13 @@
 Changed the basic S.A.I.L. to RiCO from Mega Man X DiVE
 Added X Dash tech and X Dash tech chip
 -X Dash is configurable in megaman.config if you unpack the mod
-Added "Vent" as a possible male reploid name
-Added "Aile" and "Ciel" as possible female reploid names
-Added new race called Carbons
+Added "Vent" and "Serpent" as a possible male reploid name
+Added "Aile", "Pandora" and "Ciel" as possible female reploid names
+Added new Carbon playable race
 All projectiles have a lifetime of 5 (whatever that means (Seconds? Ticks?) )
 Busters (X-Buster and Ion Buster) now overlay over the player's arm
+EVERY item is now internally prefixed with "megaman_"
+-WARNING: Because of this, your character WILL crash for the first load attempt and the items you had from this mod previously WILL be deleted
 Many balance changes
 Matched Elite Hunter armor colors with Ion weapon colors
 -Buster (charged weapons) charge damages reduced
@@ -13,6 +15,11 @@ Matched Elite Hunter armor colors with Ion weapon colors
 Only Humans and Reploids can craft Reploid equipment
 Only Reploids can craft X Dash
 Pandora and Prometheus variant Model Ws now give their respective weapons
+Resprites:
+-Buster Shot
+-Handcannon
+-Zero and Omega Helmet
+-X Buster
 X Dash and Wall Climb techs are enabled at the start for Reploids
 -Therefore Wall Climb tech chip and Tech Console were removed from the starting ship locker inventory for Reploids
 -It is still craftable by any other species, X Dash tech chip is craftable as well

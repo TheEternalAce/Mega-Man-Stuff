@@ -4,6 +4,6 @@
     { "item": "refinedaegisalt", "count": 10 },
     { "item": "purpledye", "count": 1 }
   ],
-  "output" : { "item" : "model-p", "count" : 1 },
+  "output" : { "item" : "megaman_model-p", "count" : 1 },
   "groups" : [ "craftinganvil3", "biometal", "all" ]
 }

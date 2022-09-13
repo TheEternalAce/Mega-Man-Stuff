@@ -1,10 +1,10 @@
 {
-  "itemName": "handcannon-laser",
+  "itemName": "megaman_handcannon-laser",
   "price": 0,
   "maxStack": 1,
   "rarity": "Legendary",
   "description": "This handcannon is capable of firing charged shots.",
-  "shortdescription": "Handcannon",
+  "shortdescription": "Handcannon (Laser mode)",
   "tooltipKind": "gun",
   "category": "uniqueWeapon",
   "twoHanded": false,

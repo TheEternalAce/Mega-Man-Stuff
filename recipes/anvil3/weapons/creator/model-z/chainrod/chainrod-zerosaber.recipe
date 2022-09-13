@@ -1,7 +1,7 @@
 {
   "input": [
-    { "item": "zerosaber", "count": 1 }
+    { "item": "megaman_zerosaber", "count": 1 }
   ],
-  "output" : { "item" : "chainrod", "count" : 1 },
+  "output" : { "item" : "megaman_chainrod", "count" : 1 },
   "groups" : [ "craftingcreator", "weapons", "all" ]
 }

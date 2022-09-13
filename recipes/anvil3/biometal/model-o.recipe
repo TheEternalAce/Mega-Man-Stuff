@@ -4,6 +4,6 @@
     { "item": "refinedviolium", "count": 20 },
     { "item": "reddye", "count": 1 }
   ],
-  "output" : { "item" : "model-o", "count" : 1 },
+  "output" : { "item" : "megaman_model-o", "count" : 1 },
   "groups" : [ "craftingcreator", "biometal", "all" ]
 }

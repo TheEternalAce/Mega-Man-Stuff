@@ -1,5 +1,5 @@
 {
-  "itemName" : "reploid-earpiece",
+  "itemName" : "megaman_reploid-earpiece",
   "price" : 480,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,

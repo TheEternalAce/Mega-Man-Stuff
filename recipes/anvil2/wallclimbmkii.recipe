@@ -10,7 +10,7 @@
     }
   ],
   "output": {
-    "item": "wallclimbmkii",
+    "item": "megaman_wallclimbmkii",
     "count": 1
   },
   "groups": [ "craftinganvil2", "hazardgear", "all" ]

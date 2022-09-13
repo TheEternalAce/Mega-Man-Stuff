@@ -3,6 +3,6 @@
     { "item" : "tungstenbar", "count" : 3 },
     { "item" : "climbingrope", "count" : 2 }
   ],
-  "output" : { "item" : "plasmaknuckles", "count" : 1 },
+  "output" : { "item" : "megaman_plasmaknuckles", "count" : 1 },
   "groups" : [ "craftinganvil", "weapons", "all" ]
 }

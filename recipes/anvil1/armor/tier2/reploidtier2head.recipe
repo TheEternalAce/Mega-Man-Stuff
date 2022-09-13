@@ -4,6 +4,6 @@
     { "item" : "cottonwool", "count" : 1 }
   ],
   "duration" : 5,
-  "output" : { "item" : "reploidtier2head", "count" : 1 },
+  "output" : { "item" : "megaman_reploidtier2head", "count" : 1 },
   "groups" : [ "craftinganvil", "armours", "all" ]
 }

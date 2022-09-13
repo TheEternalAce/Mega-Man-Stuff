@@ -1,5 +1,5 @@
 {
-  "objectName" : "reploidteleporterTier0",
+  "objectName" : "megaman_reploidteleporterTier0",
   "colonyTags" : ["reploid"],
   "printable" : false,
   "rarity" : "Common",
@@ -35,8 +35,8 @@
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
-      "collision" : "solid",
-      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0], [-2, 9], [-1, 9], [0, 9], [1, 9], [-2, 8], [-1, 8], [0, 8], [1, 8], [-2, 7], [-1, 7], [0, 7], [1, 7] ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0], [-2, 9], [-1, 9], [0, 9], [1, 9] ],
 	  
 	    "sitPosition": [-8, 8]
     }

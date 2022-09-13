@@ -3,6 +3,6 @@
     { "item" : "tungstenbar", "count" : 3 },
     { "item" : "copperbar", "count" : 1 }
   ],
-  "output" : { "item" : "plasmamagnum", "count" : 1 },
+  "output" : { "item" : "megaman_plasmamagnum", "count" : 1 },
   "groups" : [ "craftinganvil", "weapons", "all" ]
 }

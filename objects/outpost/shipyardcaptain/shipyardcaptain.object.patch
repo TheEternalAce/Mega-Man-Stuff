@@ -2,11 +2,11 @@
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": { "item": "transporterbikecontroller" }
+    "value": { "item": "megaman_transporterbikecontroller" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": { "item": "transporterhoverbikecontroller" }
+    "value": { "item": "megaman_transporterhoverbikecontroller" }
   }
 ]

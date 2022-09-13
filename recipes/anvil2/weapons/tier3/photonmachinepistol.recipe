@@ -3,6 +3,6 @@
     { "item" : "titaniumbar", "count" : 3 },
     { "item" : "copperbar", "count" : 2 }
   ],
-  "output" : { "item" : "photonmachinepistol", "count" : 1 },
+  "output" : { "item" : "megaman_photonmachinepistol", "count" : 1 },
   "groups" : [ "craftinganvil2", "weapons", "all" ]
 }

@@ -1,5 +1,5 @@
 {
-  "objectName" : "reploidshiplocker",
+  "objectName" : "megaman_reploidshiplocker",
   "colonyTags" : ["reploid","storage"],
   "printable" : false,
   "rarity" : "Common",
