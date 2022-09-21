@@ -15,7 +15,8 @@
 
   "animation": "handcannon-charge.animation",
   "animationParts": {
-    "gun": "handcannon-charge.png"
+    "gun": "handcannon-charge.png",
+    "gunfullbright": ""
   },
   "animationCustom": {},
   "muzzleOffset": [ 2.0, 0.0 ],

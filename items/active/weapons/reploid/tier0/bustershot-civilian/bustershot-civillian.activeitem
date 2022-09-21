@@ -1,0 +1,86 @@
+{
+  "itemName": "megaman_bustershot-civilian",
+  "price": 100,
+  "maxStack": 1,
+  "rarity": "Common",
+  "description": "Standard issue buster shot.",
+  "shortdescription": "Civilian Grade Buster Shot",
+  "tooltipKind": "gun",
+  "category": "pistol",
+  "twoHanded": false,
+  "itemTags": [ "weapon", "ranged", "pistol" ],
+  "level": 0,
+
+  "inventoryIcon": "bustershot.png",
+
+  "animation": "/items/active/weapons/ranged/gun.animation",
+  "animationParts": {
+    "butt": "",
+    "middle": "bustershot.png",
+    "barrel": "",
+    "muzzleFlash": "/items/active/weapons/ranged/muzzleflash.png"
+  },
+  "animationCustom": {
+    "sounds": {
+      "fire": [ "/sfx/gun/bustershot1.ogg" ]
+    }
+  },
+
+  "baseOffset": [ 0, 0 ],
+  "muzzleOffset": [ 1.25, 0.3 ],
+
+  "scripts": [ "/items/active/weapons/ranged/gun.lua" ],
+
+  "elementalType": "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.5,
+    "baseDps" : 10,
+    "energyUsage" : 15,
+    "inaccuracy" : 0.02,
+
+    "projectileCount": 1,
+    "burstTime" : 0.125,
+    "burstCount" : 3,
+    "fireType" : "burst",
+
+    "projectileType" : "bustershot-1",
+    "projectileParameters" : {
+      "knockback" : 0
+    },
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 10,
+        "weaponRotation" : 10,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 10,
+        "weaponRotation" : 10,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : true
+      }
+    }
+  },
+
+  "builder": "/items/buildscripts/buildunrandweapon.lua"
+}

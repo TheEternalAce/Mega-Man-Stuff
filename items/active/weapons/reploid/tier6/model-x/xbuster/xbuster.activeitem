@@ -15,7 +15,8 @@
 
   "animation": "xbuster.animation",
   "animationParts": {
-    "gun": "xbuster.png"
+    "gun": "xbuster.png",
+    "gunfullbright": "xbusterfullbright.png"
   },
   "animationCustom": {},
   "muzzleOffset": [ 1.625, 0.0 ],

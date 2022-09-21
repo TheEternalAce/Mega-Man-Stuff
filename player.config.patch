@@ -1,17 +1,17 @@
 [
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"transportershirt"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"transportershorts"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"transporterpants"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_transportershirt"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_transportershorts"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_transporterpants"} } ],
 	
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"reploid-antenna"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"reploid-earpiece"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_reploid-antenna"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_reploid-earpiece"} } ],
 	
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"reploidshiphatch"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"reploidshipdoor"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_reploidshiphatch"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_reploidshipdoor"} } ],
 	
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"wallclimb"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"wallclimbmkii"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_wallclimb"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_wallclimbmkii"} } ],
 	
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"etank"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_etank"} } ],
 	[ { "op" : "add", "path" : "/defaultCodexes/reploid", "value" : [ "protectorate1", "protectorate2", "reploiddiary" ] } ]
 ]

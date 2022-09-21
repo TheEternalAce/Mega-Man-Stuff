@@ -5,8 +5,9 @@
     "value": [[0, {
       "fill": [
         { "pool": "starterTreasure" },
-        { "item": [ "reploid-antenna", 1 ] },
-        { "item": [ "reploid-earpiece", 1 ] }
+        { "item": [ "megaman_reploid-antenna", 1 ] },
+        { "item": [ "megaman_reploid-earpiece", 1 ] },
+        { "item": [ "megaman_bustershot", 1 ] }
       ]
     }]]
   }

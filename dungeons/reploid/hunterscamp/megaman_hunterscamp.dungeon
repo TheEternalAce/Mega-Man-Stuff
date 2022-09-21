@@ -1,0 +1,85 @@
+{
+  "metadata" : {
+    "name" : "megaman_hunterscamp",
+    "species" : "reploid",
+    "rules" : [],
+    "anchor" : [ "megaman_hunterroom1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 8,
+	"extendSurfaceFreeSpace": 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    // Left Rooms
+    {
+      "name" : "megaman_hunterroom1",
+      "rules" : [
+		    ["maxSpawnCount", [1]],
+			[ "doNotConnectToPart", [ "megaman_huntermissionroom", "megaman_huntermedicalward", "megaman_hunterroom1", "megaman_hunterroom3", "megaman_hunterroom4", "megaman_hunterroom5", "megaman_hunterroom6" ] ]
+      ],
+      "def" : [ "tmx", "megaman_hunterroom.json" ]
+    },
+    {
+      "name" : "megaman_hunterroom2",
+      "rules" : [
+		    ["maxSpawnCount", [1]],
+			[ "doNotConnectToPart", [ "megaman_huntermissionroom", "megaman_huntermedicalward", "megaman_hunterroom2", "megaman_hunterroom4", "megaman_hunterroom5", "megaman_hunterroom6" ] ]
+      ],
+      "def" : [ "tmx", "megaman_hunterroom.json" ]
+    },
+    {
+      "name" : "megaman_hunterroom3",
+      "rules" : [
+		    ["maxSpawnCount", [1]],
+			[ "doNotConnectToPart", [ "megaman_huntermedicalward", "megaman_hunterroom1", "megaman_hunterroom3", "megaman_hunterroom4", "megaman_hunterroom5", "megaman_hunterroom6" ] ]
+      ],
+      "def" : [ "tmx", "megaman_hunterroom.json" ]
+    },
+
+    // Center
+    {
+      "name" : "megaman_huntermissionroom",
+      "rules" : [
+		    ["maxSpawnCount", [1]],
+			[ "doNotConnectToPart", [ "megaman_huntermissionroom", "megaman_hunterroom1", "megaman_hunterroom2", "megaman_hunterroom4", "megaman_hunterroom5", "megaman_hunterroom6" ] ]
+      ],
+      "def" : [ "tmx", "megaman_huntermissionroom.json" ]
+    },
+    {
+      "name" : "megaman_huntermedicalward",
+      "rules" : [
+		    ["maxSpawnCount", [1]],
+			[ "doNotConnectToPart", [ "megaman_huntermedicalward", "megaman_hunterroom1", "megaman_hunterroom2", "megaman_hunterroom3", "megaman_hunterroom5", "megaman_hunterroom6" ] ]
+      ],
+      "def" : [ "tmx", "megaman_huntermedicalward.json" ]
+    },
+
+    // Right Rooms
+    {
+      "name" : "megaman_hunterroom4",
+      "rules" : [
+		    ["maxSpawnCount", [1]],
+			[ "doNotConnectToPart", [ "megaman_huntermissionroom", "megaman_hunterroom1", "megaman_hunterroom2", "megaman_hunterroom3", "megaman_hunterroom4", "megaman_hunterroom6" ] ]
+      ],
+      "def" : [ "tmx", "megaman_hunterroom.json" ]
+      },
+     {
+       "name" : "megaman_hunterroom5",
+       "rules" : [
+		    ["maxSpawnCount", [1]],
+			[ "doNotConnectToPart", [ "megaman_huntermissionroom", "megaman_huntermedicalward", "megaman_hunterroom1", "megaman_hunterroom2", "megaman_hunterroom3", "megaman_hunterroom5" ] ]
+       ],
+       "def" : [ "tmx", "megaman_hunterroom.json" ]
+    },
+    {
+      "name" : "megaman_hunterroom6",
+      "rules" : [
+		    ["maxSpawnCount", [1]],
+			[ "doNotConnectToPart", [ "megaman_huntermissionroom", "megaman_huntermedicalward", "megaman_hunterroom1", "megaman_hunterroom2", "megaman_hunterroom3", "megaman_hunterroom4", "megaman_hunterroom6" ] ]
+      ],
+      "def" : [ "tmx", "megaman_hunterroom.json" ]
+    }
+  ]
+}

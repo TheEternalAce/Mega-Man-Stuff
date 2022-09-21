@@ -62,7 +62,7 @@
       "gunfullbright": {
         "properties": {
           "centered": true,
-          "offset": [ 1.0, 0.25 ],
+          "offset": [ -0.125, 0.125 ],
           "transformationGroups": [ "weapon" ],
           "zLevel": 1,
           "fullbright": true

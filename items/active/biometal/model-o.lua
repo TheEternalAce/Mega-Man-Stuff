@@ -5,11 +5,11 @@ function activate(fireMode, shiftHeld)
 
     if fireMode == "primary" then
 			
-        local objectName = "bustershot"
-        local objectName1 = "omegasaber"
-		local objectName2 = "reploid-tier6head-model-o"
-		local objectName3 = "reploid-tier6chest-model-o"
-		local objectName4 = "reploid-tier6pants-model-o"
+        local objectName = "megaman_bustershot_zero"
+        local objectName1 = "megaman_omegasaber"
+		local objectName2 = "megaman_reploid-tier6head-model-o"
+		local objectName3 = "megaman_reploid-tier6chest-model-o"
+		local objectName4 = "megaman_reploid-tier6pants-model-o"
 		world.spawnItem(objectName, mcontroller.position(), 1)
         world.spawnItem(objectName1, mcontroller.position(), 1)
 		world.spawnItem(objectName2, mcontroller.position(), 1)

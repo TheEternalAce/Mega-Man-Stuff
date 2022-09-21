@@ -15,7 +15,8 @@
 
   "animation": "handcannon-laser.animation",
   "animationParts": {
-    "gun": "handcannon-laser.png"
+    "gun": "handcannon-laser.png",
+    "gunfullbright": ""
   },
   "animationCustom": {},
   "muzzleOffset": [ 2.0, 0.0 ],
