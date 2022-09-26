@@ -1,0 +1,144 @@
+[{
+	"op": "add",
+	"path": "/items/reploid",
+	"value": [
+		[0,
+			[
+			    {
+				    "head": [
+						{"name": "megaman_reploidtier1head"}
+					],
+					"chest": [
+					    {"name": "megaman_reploidtier1chest"}
+					],
+					"legs": [
+					    {"name": "megaman_reploidtier1pants"}
+					],
+					"primary": [
+					    "megaman_bustershot-civilian"
+					],
+					"sheathedprimary": [
+					    "megaman_beamsaber"
+					],
+					"alt": [
+					    {"name": "riotshield"},
+					    {"name": "megaman_shieldboomerang-shield"}
+					]
+				},
+				{
+					"head": [
+						{"name": "megaman_reploidtier1head"}
+					],
+					"chest": [
+						{"name": "megaman_reploidtier1chest"}
+				    ],
+					"legs": [
+				    	{"name": "megaman_reploidtier1pants"}
+					],
+			        "primary": [
+					    "megaman_bustershot-civilian"
+					],
+					"sheathedprimary": [
+					    "megaman_beamsaber"
+					],
+					"alt": [
+					    {"name": "riotshield"},
+					    {"name": "megaman_shieldboomerang-shield"}
+					]
+				}
+			]
+	    ],
+		[2,
+			[
+			    {
+                    "head": [
+                        {"name": "megaman_reploidtier2head"}
+                    ],
+                    "chest": [
+                        {"name": "megaman_reploidtier2chest"}
+                    ],
+                    "legs": [
+                        {"name": "megaman_reploidtier2pants"}
+                    ],
+                    "primary": [
+                        "megaman_bustershot-resistance"
+                    ],
+                    "sheathedprimary": [
+                        "megaman_plasmatrident"
+                    ],
+                    "alt": [
+                        {"name": "riotshield"},
+                        {"name": "megaman_shieldboomerang-shield"}
+                    ]
+                },
+                {
+                    "head": [
+                        {"name": "megaman_reploidtier2head"}
+                    ],
+                    "chest": [
+                        {"name": "megaman_reploidtier2chest"}
+                    ],
+                    "legs": [
+                        {"name": "megaman_reploidtier2pants"}
+                    ],
+                    "primary": [
+                        "megaman_bustershot-resistance"
+                    ],
+                    "sheathedprimary": [
+                        "megaman_plasmatrident"
+                    ],
+                    "alt": [
+                        {"name": "riotshield"},
+                        {"name": "megaman_shieldboomerang-shield"}
+                    ]
+                }
+            ]
+        ],
+        [3,
+            [
+                {
+                    "head": [
+                        {"name": "megaman_reploidtier3head"}
+                    ],
+                    "chest": [
+                        {"name": "megaman_reploidtier3chest"}
+                    ],
+                    "legs": [
+                        {"name": "megaman_reploidtier3pants"}
+                    ],
+                        "primary": [
+                        "megaman_bustershot_zero"
+                    ],
+                        "sheathedprimary": [
+                        "megaman_ionsaber"
+                    ],
+                    "alt": [
+                        {"name": "riotshield"},
+                        {"name": "megaman_shieldboomerang-shield"}
+                    ]
+                    },
+                    {
+                    "head": [
+                        {"name": "megaman_reploidtier3head"}
+                    ],
+                    "chest": [
+                        {"name": "megaman_reploidtier3chest"}
+                    ],
+                     "legs": [
+                        {"name": "megaman_reploidtier3pants"}
+                    ],
+                    "primary": [
+                        "megaman_bustershot_zero"
+                    ],
+                        "sheathedprimary": [
+                        "megaman_ionsaber"
+                    ],
+                    "alt": [
+                        {"name": "riotshield"},
+                        {"name": "megaman_shieldboomerang-shield"}
+                    ]
+                }
+            ]
+        ]
+    ]
+}]

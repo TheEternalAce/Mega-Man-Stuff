@@ -7,13 +7,13 @@
   "description": "A module that adds Biometal to the replicator.",
   "shortdescription": "^orange;Creator Addon^white;",
   "race": "generic",
-
-  "apexDescription": "How useful, this will add Biometal to the replicator.",
-  "avianDescription": "I can use this to add Biometal to the replicator.",
+  
+  "apexDescription": "How useful, this will add more Biometals to the replicator.",
+  "avianDescription": "I can use this to add more Biometals to the replicator.",
   "floranDescription": "Floran use thisss to add more thingss to replicator.",
-  "glitchDescription": "Excited. Using this module will add Biometal to the replicator.",
-  "humanDescription": "Using this adds Biometal to the replicator!",
-  "hylotlDescription": "This useful module will add Biometal to the replicator.",
+  "glitchDescription": "Excited. Using this module will add more Biometals to the replicator.",
+  "humanDescription": "Using this adds more Biometals to the replicator!",
+  "hylotlDescription": "This useful module will add more Biometals to the replicator.",
   "novakidDescription": "This handy ol' module will add even more to the replicator.",
 
   "printable": false,

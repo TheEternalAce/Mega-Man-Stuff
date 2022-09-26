@@ -3,7 +3,7 @@
     "name" : "megaman_hunterscamp",
     "species" : "reploid",
     "rules" : [],
-    "anchor" : [ "megaman_hunterroom1" ],
+    "anchor" : [ "megaman_hunterroom1", "megaman_hunterroom6" ],
     "gravity" : 80,
     "maxRadius" : 1000000,
     "maxParts" : 8,

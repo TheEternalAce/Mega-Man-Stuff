@@ -63,7 +63,7 @@
     "raised": {
       "armRotation": 0,
       "shieldRotation": 0,
-      "allowRotate": true,
+      "allowRotate": false,
       "allowFlip": true
     }
   },

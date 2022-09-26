@@ -1,5 +1,5 @@
 {
-  "itemName": "megaman_bustershot_zero",
+  "itemName": "megaman_bustershot-zero",
   "price": 0,
   "maxStack": 1,
   "rarity": "Legendary",
@@ -11,12 +11,12 @@
   "itemTags": [ "weapon", "ranged", "pistol" ],
   "level": 6,
 
-  "inventoryIcon": "bustershot_zero.png:empty",
+  "inventoryIcon": "bustershot-zero.png:empty",
 
-  "animation": "bustershot_zero.animation",
+  "animation": "bustershot-zero.animation",
   "animationParts": {
-    "gun": "bustershot_zero.png",
-    "gunfullbright": "bustershot_zerofullbright.png"
+    "gun": "bustershot-zero.png",
+    "gunfullbright": "bustershot-zerofullbright.png"
   },
   "animationCustom": {},
   "baseOffset": [ 0, 0 ],

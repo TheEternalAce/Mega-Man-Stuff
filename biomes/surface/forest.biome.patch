@@ -1,0 +1,15 @@
+[
+//ENCOUNTERS
+	{
+		"op" : "add",
+		"path" : "/surfacePlaceables/items/-",
+		"value" : {
+			"mode" : "floor",
+			"priority" : 4.0,
+			"variants" : 1,
+			"distribution" : "/biomes/distributions.config:randomEncounter",
+			"type" : "microdungeon",
+			"microdungeons" : [ "megaman_hunterscamp" ]
+		}
+	}
+]

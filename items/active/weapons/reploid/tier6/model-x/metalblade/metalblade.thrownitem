@@ -19,7 +19,7 @@
     "power": 8,
     "knockback": 10,
 
-    "persistentAudio": "/sfx/projectiles/metalblade.ogg",
+    "persistentAudio": "",
     "periodicActions": [
       {
         "time": 0,
