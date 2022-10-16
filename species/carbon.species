@@ -7,7 +7,7 @@
   },
   "nameGen" : [ "/species/carbonmalenamegen.config:names", "/species/carbonfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/reploidhurt_male.ogg", "/sfx/humanoid/reploidhurt_female.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Part Color", "Hair colour", "Shirt colour", "Legwear colour", "Carbon", "Personality" ],
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Part Color", "Hair colour", "Shirt colour", "Legwear colour", "CARBON", "Personality" ],
   "skull" : "/humanoid/carbon/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
@@ -75,6 +75,13 @@
 
       { "item": "megaman_bustershot-resistance" },
       { "item": "megaman_bustershot-mega" },
+
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
 
       // Furniture Table 2
       { "item": "megaman_humanstoragelocker" },

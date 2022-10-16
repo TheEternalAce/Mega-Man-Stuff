@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "megaman_bustershot-resistance", "count" : 1 },
-    { "item" : "refinedaegisalt", "count" : 12 }
+    { "item" : "solariumstar", "count" : 12 }
   ],
   "output" : { "item" : "megaman_bustershot-mega", "count" : 1 },
   "groups" : [ "craftingcreator", "weapons", "all" ]

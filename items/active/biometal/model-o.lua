@@ -5,7 +5,7 @@ function activate(fireMode, shiftHeld)
 
     if fireMode == "primary" then
 			
-        local objectName = "megaman_bustershot_zero"
+        local objectName = "megaman_bustershot-zero"
         local objectName1 = "megaman_omegasaber"
 		local objectName2 = "megaman_reploid-tier6head-model-o"
 		local objectName3 = "megaman_reploid-tier6chest-model-o"

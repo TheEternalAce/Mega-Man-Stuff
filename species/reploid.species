@@ -7,7 +7,7 @@
   },
   "nameGen" : [ "/species/reploidmalenamegen.config:names", "/species/reploidfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/reploidhurt_male.ogg", "/sfx/humanoid/reploidhurt_female.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Eye Color", "Hair colour", "Shirt colour", "Legwear colour", "Reploid", "Personality" ],
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Eye Color", "Hair colour", "Shirt colour", "Legwear colour", "REPLOID", "Personality" ],
   "skull" : "/humanoid/reploid/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
@@ -76,6 +76,13 @@
       { "item": "megaman_bustershot-resistance" },
       { "item": "megaman_bustershot-mega" },
 
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+
       // Furniture Table 2
       { "item": "megaman_humanstoragelocker" },
       { "item": "megaman_reploidshipdoor" },
@@ -105,7 +112,7 @@
   "altOptionAsHairColor" : true,
   "genders" : [
     {
-       "name" : "male",
+      "name" : "male",
       "image" : "/interface/title/reploidmaleicon.png",
       "characterImage" : "/interface/title/reploidmale.png",
       "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],

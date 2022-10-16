@@ -2,8 +2,11 @@ Changed the basic S.A.I.L. to RiCO from Mega Man X DiVE
 Added X Dash tech, X Dash tech chip, Shining Laser, and Civilian, Resistance and M.E.G.A. Grade Buster Shot
 -X Dash is configurable in megaman.config if you unpack the mod
 Added multiple possible reploid names
+-"Lumine" is now a male name
 Added new Carbon playable race
-Added structures that spawn NPCs
+Added structures
+Added Reploid furniture objects
+Added alternate Mythos X and Zero equipment (X buster and armor, and Zero Saber and armor)
 All projectiles have a lifetime of 5 (whatever that means (Seconds? Ticks?) )
 Busters (X-Buster and Ion Buster) now overlay over the player's arm
 Dyes color the armor and not the black on armors (I don't know how to explain it, see for yourself
@@ -13,8 +16,7 @@ Many balance changes
 -Buster (charged weapons) charge damages reduced
 -Buster (charged weapons) uncharged shot costs 1 energy
 Matched Elite Hunter armor colors with Ion weapon colors
-Only Humans and Reploids can craft Reploid equipment
-Only Reploids can craft X Dash
+Only Humans, Reploids and Carbons (for now) can craft Reploid equipment
 Others I probably forgot
 Pandora and Prometheus variant Model Ws now give their respective weapons
 Resprites:
@@ -23,6 +25,8 @@ Resprites:
 -Zero and Omega Helmet
 -X Buster
 Removed Reploid outfit variants and used vanilla ones instead
+Removed Pandora and Prometheus variant Biometal Model W
+Reploids can now craft Aegisalt Bow, Aegisalt Pistol, Ferozium Staff, Ferozium Wand, Violium Broadsword and Violium Shortsword (weird oversight but meh)
 X Dash and Wall Climb techs are enabled at the start for Reploids
 -Therefore Wall Climb tech chip and Tech Console were removed from the starting ship locker inventory for Reploids
--It is still craftable by any other species, X Dash tech chip is craftable as well
+-It is still craft-able by any other species, X Dash tech chip is craft-able as well

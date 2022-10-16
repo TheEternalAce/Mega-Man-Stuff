@@ -15,14 +15,15 @@
 					    {"name": "megaman_reploidtier1pants"}
 					],
 					"primary": [
-					    "megaman_bustershot-civilian"
+					    "megaman_bustershot-civilian",
+					    "megaman_beamcarbine"
 					],
 					"sheathedprimary": [
-					    "megaman_beamsaber"
+					    "megaman_beamdagger"
 					],
 					"alt": [
-					    {"name": "riotshield"},
-					    {"name": "megaman_shieldboomerang-shield"}
+					    {"name": "commonlargeshield"},
+					    {"name": "commonsmallshield"}
 					]
 				},
 				{
@@ -36,14 +37,15 @@
 				    	{"name": "megaman_reploidtier1pants"}
 					],
 			        "primary": [
-					    "megaman_bustershot-civilian"
-					],
-					"sheathedprimary": [
 					    "megaman_beamsaber"
 					],
+					"sheathedprimary": [
+					    "megaman_bustershot-civilian",
+					    "megaman_beampistol"
+					],
 					"alt": [
-					    {"name": "riotshield"},
-					    {"name": "megaman_shieldboomerang-shield"}
+					    {"name": "commonlargeshield"},
+					    {"name": "commonsmallshield"}
 					]
 				}
 			]
@@ -61,14 +63,15 @@
                         {"name": "megaman_reploidtier2pants"}
                     ],
                     "primary": [
-                        "megaman_bustershot-resistance"
+                        "megaman_bustershot-resistance",
+                        "megaman_plasmarifle"
                     ],
                     "sheathedprimary": [
-                        "megaman_plasmatrident"
+                        "megaman_plasmaknuckle"
                     ],
                     "alt": [
-                        {"name": "riotshield"},
-                        {"name": "megaman_shieldboomerang-shield"}
+					    {"name": "commonlargeshield"},
+					    {"name": "commonsmallshield"}
                     ]
                 },
                 {
@@ -82,14 +85,16 @@
                         {"name": "megaman_reploidtier2pants"}
                     ],
                     "primary": [
-                        "megaman_bustershot-resistance"
-                    ],
-                    "sheathedprimary": [
                         "megaman_plasmatrident"
                     ],
+                    "sheathedprimary": [
+                        "megaman_bustershot-resistance",
+                        "megaman_plasmamagnum"
+                    ],
                     "alt": [
-                        {"name": "riotshield"},
-                        {"name": "megaman_shieldboomerang-shield"}
+					    {"name": "commonlargeshield"},
+					    {"name": "commonsmallshield"},
+                        {"name": "megaman_plasmaknuckle"}
                     ]
                 }
             ]
@@ -106,15 +111,17 @@
                     "legs": [
                         {"name": "megaman_reploidtier3pants"}
                     ],
-                        "primary": [
-                        "megaman_bustershot_zero"
+                    "primary": [
+                        "megaman_bustershot-mega",
+                        "megaman_ioncoilgun"
                     ],
                         "sheathedprimary": [
-                        "megaman_ionsaber"
+                        "megaman_ionkatar"
                     ],
                     "alt": [
                         {"name": "riotshield"},
-                        {"name": "megaman_shieldboomerang-shield"}
+                        {"name": "megaman_shieldboomerang-shield"},
+                        {"name": "megaman_ionkatar"}
                     ]
                     },
                     {
@@ -128,10 +135,11 @@
                         {"name": "megaman_reploidtier3pants"}
                     ],
                     "primary": [
-                        "megaman_bustershot_zero"
-                    ],
-                        "sheathedprimary": [
                         "megaman_ionsaber"
+                    ],
+                    "sheathedprimary": [
+                        "megaman_bustershot-mega",
+                        "megaman_ionbuster"
                     ],
                     "alt": [
                         {"name": "riotshield"},

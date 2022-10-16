@@ -1,0 +1,70 @@
+{
+  "itemName": "megaman_xbuster-mythos",
+  "price": 0,
+  "maxStack": 1,
+  "rarity": "Legendary",
+  "description": "Let's go!",
+  "shortdescription": "X-Buster (Mythos)",
+  "tooltipKind": "gun",
+  "category": "uniqueWeapon",
+  "twoHanded": false,
+  "itemTags": [ "weapon", "ranged", "pistol" ],
+  "level": 6,
+
+  "inventoryIcon": "xbuster-mythos.png:empty",
+
+  "animation": "xbuster-mythos.animation",
+  "animationParts": {
+    "gun": "xbuster-mythos.png",
+    "gunfullbright": "xbusterfullbright-mythos.png"
+  },
+  "animationCustom": {},
+  "muzzleOffset": [ 1.625, 0.0 ],
+
+  "handGrip": "wrap",
+
+  "scripts": [ "/items/active/weapons/ranged/gun.lua" ],
+
+  "elementalType": "physical",
+
+  "primaryAbilityType": "chargefire",
+  "primaryAbility": {
+    "chargeLevels": [
+      {
+        "time": 0,
+        "energyCost": 1,
+        "cooldown": 0.1,
+        "projectileType": "xbuster-1",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 5,
+        "fireSound": "fire"
+      },
+      {
+        "time": 0.5,
+        "energyCost": 20,
+        "cooldown": 0.1,
+        "projectileType": "xbuster-2",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 10,
+        "fireSound": "fire2"
+      },
+      {
+        "time": 1.0,
+        "energyCost": 30,
+        "cooldown": 0.1,
+        "projectileType": "xbuster-3",
+        "projectileCount": 1,
+        "projectileParameters": {},
+        "inaccuracy": 0,
+        "baseDamage": 15,
+        "fireSound": "fire3"
+      }
+    ]
+  },
+
+  "builder": "/items/buildscripts/buildunrandweapon.lua"
+}

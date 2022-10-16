@@ -11,6 +11,7 @@
 	
 	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_wallclimb"} } ],
 	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_wallclimbmkii"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_x_dash"} } ],
 	
 	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_etank"} } ],
 	[ { "op" : "add", "path" : "/defaultCodexes/reploid", "value" : [ "protectorate1", "protectorate2", "reploiddiary" ] } ]

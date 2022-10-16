@@ -4,7 +4,7 @@
   "rarity": "legendary",
   "category": "Tool",
   "inventoryIcon": "model-z.png",
-  "description": "\"What am I fighting for!?\"",
+  "description": "\"What am I fighting for!?\"\n(Hold shift and use to get the alt Mythos version)",
   "shortdescription": "Biometal Model: Zero",
   "itemTags": [ "soul" ],
   "scripts": [ "model-z.lua" ]

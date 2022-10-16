@@ -7,7 +7,7 @@
         { "pool": "starterTreasure" },
         { "item": [ "megaman_reploid-antenna", 1 ] },
         { "item": [ "megaman_reploid-earpiece", 1 ] },
-        { "item": [ "megaman_bustershot", 1 ] }
+        { "item": [ "megaman_bustershot-civillian", 1 ] }
       ]
     }]]
   }

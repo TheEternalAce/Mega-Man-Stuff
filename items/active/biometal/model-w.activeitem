@@ -1,11 +1,11 @@
 {
-  "itemName": "megaman_model-w-pr",
+  "itemName": "megaman_model-w",
   "price": 20000,
   "rarity": "legendary",
   "category": "Tool",
   "inventoryIcon": "model-w.png",
-  "description": "Prometheus Variant",
+  "description": "Gives Pandora's Equipment (Hold shift and use to get Prometheus's equipment)",
   "shortdescription": "Biometal Model: Wile",
   "itemTags": [ "soul" ],
-  "scripts": [ "model-w-pr.lua" ]
+  "scripts": [ "model-w.lua" ]
 }

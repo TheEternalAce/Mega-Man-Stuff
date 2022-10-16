@@ -10,12 +10,12 @@
   "backgroundOverlays" : [
     {
       "image" : "reploidT5.png",
-      "position" : [8.39, 11.88],
+      "position" : [8.39, 6.88],
       "fullbright" : true
     },
     {
       "image" : "reploidT5lit.png",
-      "position" : [8.39, 11.88]
+      "position" : [8.39, 6.88]
     }
   ],
 

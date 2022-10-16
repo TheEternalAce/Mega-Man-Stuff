@@ -1,0 +1,50 @@
+{
+  "itemName": "megaman_zerosaber-mythos",
+  "price": 0,
+  "level": 6,
+  "maxStack": 1,
+  "rarity": "Legendary",
+  "description": "What am I fighting for!?",
+  "shortdescription": "Zero Saber (Mythos)",
+  "tooltipKind": "sword",
+  "category": "broadsword",
+  "twoHanded": true,
+  "itemTags": [ "weapon", "melee", "broadsword" ],
+
+  "inventoryIcon": "handle.png",
+
+  "animation": "/items/active/weapons/melee/broadsword/energybroadsword.animation",
+  "animationParts": {
+    "handle": "handle.png",
+    "blade": "blade.png"
+  },
+  "animationCustom": {
+    "sounds": {
+      "fire": [ "/sfx/melee/zerosaber_swing1.ogg" ],
+      "fire2": [ "/sfx/melee/zerosaber_swing2.ogg" ],
+      "fire3": [ "/sfx/melee/zerosaber_swing1.ogg" ]
+    }
+  },
+
+  "scripts": [ "/items/active/weapons/melee/energymeleeweapon.lua" ],
+
+  "activeTime": 1,
+
+  "elementalType": "physical",
+
+  "primaryAbilityType": "broadswordcombo",
+  "primaryAbility": {
+    "fireTime": 0.83,
+    "baseDps": 11.5,
+
+    "stances": {
+      "windup1": {
+        "duration": 0.15
+      }
+    }
+  },
+
+  "altAbilityType": "parry",
+
+  "builder": "/items/buildscripts/buildunrandweapon.lua"
+}
