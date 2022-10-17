@@ -2,7 +2,7 @@
   "name" : "wallclimbmkii",
   "type" : "legs",
 
-  "scripts" : ["walljump.lua"],
+  "scripts" : ["walljump_nosuppression.lua"],
   "animator" : "walljump.animation",
 
   "description" : "Wall jump, but better",

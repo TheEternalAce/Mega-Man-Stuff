@@ -19,6 +19,7 @@ Matched Elite Hunter armor colors with Ion weapon colors
 Only Humans, Reploids and Carbons (for now) can craft Reploid equipment
 Others I probably forgot
 Pandora and Prometheus variant Model Ws now give their respective weapons
+Player can now use items while clinging to a wall via Wall Climb and Wall Climb MKII
 Resprites:
 -Buster Shot
 -Handcannon

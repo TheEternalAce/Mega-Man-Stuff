@@ -2,7 +2,7 @@
   "name" : "wallclimb",
   "type" : "legs",
 
-  "scripts" : ["walljump.lua"],
+  "scripts" : ["walljump_nosuppression.lua"],
   "animator" : "walljump.animation",
 
   "description" : "Lets you climb up vertical walls!",
