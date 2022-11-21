@@ -6,7 +6,7 @@
     }
   ],
   "output": {
-    "item": "megaman_x_dash",
+    "item": "mm_x_dash",
     "count": 1
   },
   "groups": [ "craftinganvil2", "hazardgear", "all" ]

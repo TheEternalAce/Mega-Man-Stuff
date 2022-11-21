@@ -1,5 +1,5 @@
 {
-  "objectName" : "megaman_reploidtechstationTier0",
+  "objectName" : "mm_reploidtechstationTier0",
   "colonyTags" : ["reploid"],
   "printable" : false,
   "rarity" : "Common",

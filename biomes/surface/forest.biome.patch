@@ -9,7 +9,7 @@
 			"variants" : 1,
 			"distribution" : "/biomes/distributions.config:randomEncounter",
 			"type" : "microdungeon",
-			"microdungeons" : [ "megaman_hunterscamp" ]
+			"microdungeons" : [ "mm_hunterscamp" ]
 		}
 	}
 ]

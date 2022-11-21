@@ -1,9 +1,9 @@
 {
   "metadata" : {
-    "name" : "megaman_guardianbase",
+    "name" : "mm_guardianbase",
     "species" : "reploid",
     "rules" : [],
-    "anchor" : [ "megaman_guardian_mainroom" ],
+    "anchor" : [ "mm_guardian_mainroom" ],
     "gravity" : 80,
     "maxRadius" : 1000000,
     "maxParts" : 5,
@@ -14,18 +14,18 @@
   "parts" : [
     // Rooms
     {
-      "name" : "megaman_guardian_mainroom",
+      "name" : "mm_guardian_mainroom",
       "rules" : [
 		    ["maxSpawnCount", [1]]
 		],
-      "def" : [ "tmx", "megaman_guardian_mainroom.json" ]
+      "def" : [ "tmx", "mm_guardian_mainroom.json" ]
     },
     {
-      "name" : "megaman_hoverbikes",
+      "name" : "mm_hoverbikes",
       "rules" : [
 		    ["maxSpawnCount", [4]]
 		],
-      "def" : [ "tmx", "megaman_hoverbikes.json" ]
+      "def" : [ "tmx", "mm_hoverbikes.json" ]
     }
   ]
 }

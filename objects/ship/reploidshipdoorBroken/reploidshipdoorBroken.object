@@ -1,5 +1,5 @@
 {
-  "objectName" : "megaman_reploidshipdoorBroken",
+  "objectName" : "mm_reploidshipdoorBroken",
   "colonyTags" : ["reploid"],
   "printable" : false,
   "rarity" : "Common",

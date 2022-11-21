@@ -14,67 +14,67 @@
     "tier1": [
 
       // Empty Hands
-      { "item": "megaman_flagreploid" },
+      { "item": "mm_flagreploid" },
 
       // Anvil
-      { "item": "megaman_bustershot-civilian" },
+      { "item": "mm_bustershot-civilian" },
 
-      { "item": "megaman_reploidtier1head" },
-      { "item": "megaman_reploidtier1chest" },
-      { "item": "megaman_reploidtier1pants" },
+      { "item": "mm_reploidtier1head" },
+      { "item": "mm_reploidtier1chest" },
+      { "item": "mm_reploidtier1pants" },
 
-      { "item": "megaman_reploidtier2head" },
-      { "item": "megaman_reploidtier2chest" },
-      { "item": "megaman_reploidtier2pants" },
+      { "item": "mm_reploidtier2head" },
+      { "item": "mm_reploidtier2chest" },
+      { "item": "mm_reploidtier2pants" },
 
-      { "item": "megaman_beamdagger" },
-      { "item": "megaman_beamcarbine" },
-      { "item": "megaman_beampistol" },
-      { "item": "megaman_beamsaber" },
+      { "item": "mm_beamdagger" },
+      { "item": "mm_beamcarbine" },
+      { "item": "mm_beampistol" },
+      { "item": "mm_beamsaber" },
 
-      { "item": "megaman_plasmaknuckles" },
-      { "item": "megaman_plasmamagnum" },
-      { "item": "megaman_plasmarifle" },
-      { "item": "megaman_plasmatrident" },
+      { "item": "mm_plasmaknuckles" },
+      { "item": "mm_plasmamagnum" },
+      { "item": "mm_plasmarifle" },
+      { "item": "mm_plasmatrident" },
 
       // Anvil2
-      { "item": "megaman_reploidtier3head" },
-      { "item": "megaman_reploidtier3chest" },
-      { "item": "megaman_reploidtier3pants" },
+      { "item": "mm_reploidtier3head" },
+      { "item": "mm_reploidtier3chest" },
+      { "item": "mm_reploidtier3pants" },
 
-      { "item": "megaman_reploidtier4head" },
-      { "item": "megaman_reploidtier4chest" },
-      { "item": "megaman_reploidtier4pants" },
+      { "item": "mm_reploidtier4head" },
+      { "item": "mm_reploidtier4chest" },
+      { "item": "mm_reploidtier4pants" },
 
-      { "item": "megaman_photonaxe" },
-      { "item": "megaman_photonmachinepistol" },
-      { "item": "megaman_photonscythe" },
-      { "item": "megaman_photonshotgun" },
+      { "item": "mm_photonaxe" },
+      { "item": "mm_photonmachinepistol" },
+      { "item": "mm_photonscythe" },
+      { "item": "mm_photonshotgun" },
 
-      { "item": "megaman_ionbuster" },
-      { "item": "megaman_ioncoilgun" },
-      { "item": "megaman_ionkatar" },
-      { "item": "megaman_ionsaber" },
+      { "item": "mm_ionbuster" },
+      { "item": "mm_ioncoilgun" },
+      { "item": "mm_ionkatar" },
+      { "item": "mm_ionsaber" },
 
       // Anvil3
-      { "item": "megaman_model-f" },
-      { "item": "megaman_model-h" },
-      { "item": "megaman_model-l" },
-      { "item": "megaman_model-p" },
+      { "item": "mm_model-f" },
+      { "item": "mm_model-h" },
+      { "item": "mm_model-l" },
+      { "item": "mm_model-p" },
 
-      { "item": "megaman_model-a" },
-      { "item": "megaman_model-o" },
-      { "item": "megaman_model-w" },
-      { "item": "megaman_model-x" },
-      { "item": "megaman_model-z" },
+      { "item": "mm_model-a" },
+      { "item": "mm_model-o" },
+      { "item": "mm_model-w" },
+      { "item": "mm_model-x" },
+      { "item": "mm_model-z" },
 
-      { "item": "megaman_chainrod" },
-      { "item": "megaman_recoilrod" },
-      { "item": "megaman_triplerod" },
-      { "item": "megaman_zerosaber" },
+      { "item": "mm_chainrod" },
+      { "item": "mm_recoilrod" },
+      { "item": "mm_triplerod" },
+      { "item": "mm_zerosaber" },
 
-      { "item": "megaman_bustershot-resistance" },
-      { "item": "megaman_bustershot-mega" },
+      { "item": "mm_bustershot-resistance" },
+      { "item": "mm_bustershot-mega" },
 
       { "item" : "aegisaltpistol" },
       { "item" : "aegisaltbow" },
@@ -84,13 +84,13 @@
       { "item" : "violiumbroadsword" },
 
       // Furniture Table 2
-      { "item": "megaman_humanstoragelocker" },
-      { "item": "megaman_reploidshipdoor" },
-      { "item": "megaman_reploidshiphatch" },
+      { "item": "mm_humanstoragelocker" },
+      { "item": "mm_reploidshipdoor" },
+      { "item": "mm_reploidshiphatch" },
 
       // Inventor's Table 3
-      { "item": "megaman_x-dash" },
-      { "item": "megaman_creatoraddon" },
+      { "item": "mm_x-dash" },
+      { "item": "mm_creatoraddon" },
 
       // Spinning Wheel
       { "item": "conceptchest" },
@@ -116,8 +116,8 @@
       "image" : "/interface/title/reploidmaleicon.png",
       "characterImage" : "/interface/title/reploidmale.png",
       "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
-      "shirt" : [ "conceptchest", "coolchest", "sweatervestchest", "workoutchest", "megaman_transportershirt" ],
-      "pants": [ "conceptlegs", "coollegs", "sweatervestlegs", "workoutlegs", "megaman_transporterpants" ],
+      "shirt" : [ "conceptchest", "coolchest", "sweatervestchest", "workoutchest", "mm_transportershirt" ],
+      "pants": [ "conceptlegs", "coollegs", "sweatervestlegs", "workoutlegs", "mm_transporterpants" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -128,8 +128,8 @@
       "image" : "/interface/title/reploidfemicon.png",
       "characterImage" : "/interface/title/reploidfemale.png",
       "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13", "fem14", "fem15", "fem16", "fem17", "fem18", "fem19", "fem20", "fem21", "fem22", "fem23", "fem24", "fem25", "fem26", "fem27", "fem28", "fem29", "fem30", "fem31", "fem32", "fem33", "fem34", "fem35", "fem36", "fem37", "fem38", "fem39", "fem40", "fem41", "fem42", "fem43", "fem44", "fem45", "fem46", "fem47", "fem48", "fem49", "fem50", "fem51", "fem52", "fem53", "fem54", "fem55", "fem56", "fem57", "fem58", "fem59", "fem60", "fem61", "fem62", "fem63", "fem64" ],
-      "shirt" : [ "conceptchest", "coolchest", "sweatervestchest", "workoutchest", "megaman_transportershirt" ],
-      "pants": [ "conceptlegs", "coollegs", "sweatervestlegs", "workoutlegs", "megaman_transportershorts" ],
+      "shirt" : [ "conceptchest", "coolchest", "sweatervestchest", "workoutchest", "mm_transportershirt" ],
+      "pants": [ "conceptlegs", "coollegs", "sweatervestlegs", "workoutlegs", "mm_transportershorts" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",

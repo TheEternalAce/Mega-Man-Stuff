@@ -1,9 +1,9 @@
 {
   "input": [
     {
-      "item": "megaman_shieldboomerang-shield", "count": 1
+      "item": "mm_shieldboomerang-shield", "count": 1
     }
   ],
-  "output" : { "item" : "megaman_shieldboomerang", "count" : 1 },
+  "output" : { "item" : "mm_shieldboomerang", "count" : 1 },
   "groups" : [ "craftingcreator", "weapons", "all" ]
 }

@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "megaman_transportershorts", "count" : 1 }
+    { "item" : "mm_transportershorts", "count" : 1 }
   ],
   "output" : {
-    "item" : "megaman_transporterpants",
+    "item" : "mm_transporterpants",
     "count" : 1
   },
   "groups" : [ "plain", "objects", "all", "tools" ]

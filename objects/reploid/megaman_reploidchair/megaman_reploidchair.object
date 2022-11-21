@@ -1,5 +1,5 @@
 {
-  "objectName" : "megaman_reploidchair",
+  "objectName" : "mm_reploidchair",
   "colonyTags" : ["misc","reploid"],
   "printable" : false,
   "rarity" : "Common",
@@ -17,10 +17,10 @@
   "hylotlDescription" : "Almost the luxury Hylotl are used to. There's satisfaction to be gained here.",
   "novakidDescription" : "This kinda chair makes me wanna put my feet up!",
 
-  "inventoryIcon" : "megaman_reploidchairicon.png",
+  "inventoryIcon" : "mm_reploidchairicon.png",
   "orientations" : [
     {
-      "image" : "megaman_reploidchair.png:<color>",
+      "image" : "mm_reploidchair.png:<color>",
       "direction" : "right",
 
       "imagePosition" : [-8, 0],
@@ -31,7 +31,7 @@
 
     },
     {
-      "image" : "megaman_reploidchair.png:<color>",
+      "image" : "mm_reploidchair.png:<color>",
       "direction" : "left",
       "flipImages" : true,
 

@@ -1,5 +1,5 @@
 {
-  "itemName" : "megaman_transportershirt",
+  "itemName" : "mm_transportershirt",
   "price" : 0,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,

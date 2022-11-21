@@ -3,6 +3,6 @@
     { "item" : "ironbar", "count" : 6 },
     { "item" : "climbingrope", "count" : 4 }
   ],
-  "output" : { "item" : "megaman_beamsaber", "count" : 1 },
+  "output" : { "item" : "mm_beamsaber", "count" : 1 },
   "groups" : [ "craftinganvil", "weapons", "all" ]
 }

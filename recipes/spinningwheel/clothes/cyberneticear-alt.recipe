@@ -2,6 +2,6 @@
   "input" : [
     { "item" : "silverbar", "count" : 1 }
   ],
-  "output" : { "item" : "megaman_reploid-antenna", "count" : 1 },
+  "output" : { "item" : "mm_cyberneticear-alt", "count" : 1 },
   "groups" : [ "craftingwheel", "clothes" ]
 }

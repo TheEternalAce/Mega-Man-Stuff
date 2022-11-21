@@ -6,7 +6,7 @@
     { "item" : "teleportercore", "count" : 1 }
   ],
   "output": {
-    "item": "megaman_reploidteleporteralt",
+    "item": "mm_reploidteleporteralt",
     "count": 1
   },
   "groups" : [ "teleshop" ]

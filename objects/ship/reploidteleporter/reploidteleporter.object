@@ -1,5 +1,5 @@
 {
-  "objectName" : "megaman_reploidteleporter",
+  "objectName" : "mm_reploidteleporter",
   "colonyTags" : ["reploid"],
   "printable" : false,
   "rarity" : "Common",

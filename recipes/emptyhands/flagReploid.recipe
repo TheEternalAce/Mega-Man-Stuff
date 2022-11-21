@@ -4,7 +4,7 @@
     { "item" : "fabric", "count" : 20 }
   ],
   "output" : {
-    "item" : "megaman_flagreploid",
+    "item" : "mm_flagreploid",
     "count" : 1
   },
   "groups" : [ "plain", "all" ]

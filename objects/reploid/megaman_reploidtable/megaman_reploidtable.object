@@ -1,5 +1,5 @@
 {
-  "objectName" : "megaman_reploidtable",
+  "objectName" : "mm_reploidtable",
   "colonyTags" : ["commerce","reploid"],
   "printable" : false,
   "rarity" : "Common",
@@ -17,10 +17,10 @@
   "hylotlDescription" : "Not usually my kind of table, but this is rather impressive.",
   "novakidDescription" : "A good titanium table.",
 
-  "inventoryIcon" : "megaman_reploidtableicon.png",
+  "inventoryIcon" : "mm_reploidtableicon.png",
   "orientations" : [
     {
-      "dualImage" : "megaman_reploidtable.png:<color>",
+      "dualImage" : "mm_reploidtable.png:<color>",
 
       "imagePosition" : [-16, 0],
       "frames" : 1,

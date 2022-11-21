@@ -4,6 +4,6 @@
     { "item" : "leather", "count" : 1 }
   ],
   "duration" : 5,
-  "output" : { "item" : "megaman_reploidtier4head", "count" : 1 },
+  "output" : { "item" : "mm_reploidtier4head", "count" : 1 },
   "groups" : [ "craftinganvil3", "armours", "all" ]
 }

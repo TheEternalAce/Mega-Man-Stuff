@@ -4,7 +4,7 @@
     { "item" : "durasteelbar", "count" : 1 }
   ],
   "output" : {
-    "item" : "megaman_etank",
+    "item" : "mm_etank",
     "count" : 5
   },
   "groups" : [ "craftingmedical2", "healing" ]

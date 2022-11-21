@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "megaman_bustershot-civilian", "count" : 1 },
+    { "item" : "mm_bustershot-civilian", "count" : 1 },
     { "item" : "refinedaegisalt", "count" : 12 }
   ],
-  "output" : { "item" : "megaman_bustershot-resistance", "count" : 1 },
+  "output" : { "item" : "mm_bustershot-resistance", "count" : 1 },
   "groups" : [ "craftinganvil3", "weapons", "all" ]
 }

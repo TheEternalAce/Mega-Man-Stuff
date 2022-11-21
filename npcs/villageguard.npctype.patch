@@ -6,20 +6,20 @@
 			[
 			    {
 				    "head": [
-						{"name": "megaman_reploidtier1head"}
+						{"name": "mm_reploidtier1head"}
 					],
 					"chest": [
-					    {"name": "megaman_reploidtier1chest"}
+					    {"name": "mm_reploidtier1chest"}
 					],
 					"legs": [
-					    {"name": "megaman_reploidtier1pants"}
+					    {"name": "mm_reploidtier1pants"}
 					],
 					"primary": [
-					    "megaman_bustershot-civilian",
-					    "megaman_beamcarbine"
+					    "mm_bustershot-civilian",
+					    "mm_beamcarbine"
 					],
 					"sheathedprimary": [
-					    "megaman_beamdagger"
+					    "mm_beamdagger"
 					],
 					"alt": [
 					    {"name": "commonlargeshield"},
@@ -28,20 +28,20 @@
 				},
 				{
 					"head": [
-						{"name": "megaman_reploidtier1head"}
+						{"name": "mm_reploidtier1head"}
 					],
 					"chest": [
-						{"name": "megaman_reploidtier1chest"}
+						{"name": "mm_reploidtier1chest"}
 				    ],
 					"legs": [
-				    	{"name": "megaman_reploidtier1pants"}
+				    	{"name": "mm_reploidtier1pants"}
 					],
 			        "primary": [
-					    "megaman_beamsaber"
+					    "mm_beamsaber"
 					],
 					"sheathedprimary": [
-					    "megaman_bustershot-civilian",
-					    "megaman_beampistol"
+					    "mm_bustershot-civilian",
+					    "mm_beampistol"
 					],
 					"alt": [
 					    {"name": "commonlargeshield"},
@@ -54,20 +54,20 @@
 			[
 			    {
                     "head": [
-                        {"name": "megaman_reploidtier2head"}
+                        {"name": "mm_reploidtier2head"}
                     ],
                     "chest": [
-                        {"name": "megaman_reploidtier2chest"}
+                        {"name": "mm_reploidtier2chest"}
                     ],
                     "legs": [
-                        {"name": "megaman_reploidtier2pants"}
+                        {"name": "mm_reploidtier2pants"}
                     ],
                     "primary": [
-                        "megaman_bustershot-resistance",
-                        "megaman_plasmarifle"
+                        "mm_bustershot-resistance",
+                        "mm_plasmarifle"
                     ],
                     "sheathedprimary": [
-                        "megaman_plasmaknuckle"
+                        "mm_plasmaknuckle"
                     ],
                     "alt": [
 					    {"name": "commonlargeshield"},
@@ -76,25 +76,25 @@
                 },
                 {
                     "head": [
-                        {"name": "megaman_reploidtier2head"}
+                        {"name": "mm_reploidtier2head"}
                     ],
                     "chest": [
-                        {"name": "megaman_reploidtier2chest"}
+                        {"name": "mm_reploidtier2chest"}
                     ],
                     "legs": [
-                        {"name": "megaman_reploidtier2pants"}
+                        {"name": "mm_reploidtier2pants"}
                     ],
                     "primary": [
-                        "megaman_plasmatrident"
+                        "mm_plasmatrident"
                     ],
                     "sheathedprimary": [
-                        "megaman_bustershot-resistance",
-                        "megaman_plasmamagnum"
+                        "mm_bustershot-resistance",
+                        "mm_plasmamagnum"
                     ],
                     "alt": [
 					    {"name": "commonlargeshield"},
 					    {"name": "commonsmallshield"},
-                        {"name": "megaman_plasmaknuckle"}
+                        {"name": "mm_plasmaknuckle"}
                     ]
                 }
             ]
@@ -103,47 +103,47 @@
             [
                 {
                     "head": [
-                        {"name": "megaman_reploidtier3head"}
+                        {"name": "mm_reploidtier3head"}
                     ],
                     "chest": [
-                        {"name": "megaman_reploidtier3chest"}
+                        {"name": "mm_reploidtier3chest"}
                     ],
                     "legs": [
-                        {"name": "megaman_reploidtier3pants"}
+                        {"name": "mm_reploidtier3pants"}
                     ],
                     "primary": [
-                        "megaman_bustershot-mega",
-                        "megaman_ioncoilgun"
+                        "mm_bustershot-mega",
+                        "mm_ioncoilgun"
                     ],
                         "sheathedprimary": [
-                        "megaman_ionkatar"
+                        "mm_ionkatar"
                     ],
                     "alt": [
                         {"name": "riotshield"},
-                        {"name": "megaman_shieldboomerang-shield"},
-                        {"name": "megaman_ionkatar"}
+                        {"name": "mm_shieldboomerang-shield"},
+                        {"name": "mm_ionkatar"}
                     ]
                     },
                     {
                     "head": [
-                        {"name": "megaman_reploidtier3head"}
+                        {"name": "mm_reploidtier3head"}
                     ],
                     "chest": [
-                        {"name": "megaman_reploidtier3chest"}
+                        {"name": "mm_reploidtier3chest"}
                     ],
                      "legs": [
-                        {"name": "megaman_reploidtier3pants"}
+                        {"name": "mm_reploidtier3pants"}
                     ],
                     "primary": [
-                        "megaman_ionsaber"
+                        "mm_ionsaber"
                     ],
                     "sheathedprimary": [
-                        "megaman_bustershot-mega",
-                        "megaman_ionbuster"
+                        "mm_bustershot-mega",
+                        "mm_ionbuster"
                     ],
                     "alt": [
                         {"name": "riotshield"},
-                        {"name": "megaman_shieldboomerang-shield"}
+                        {"name": "mm_shieldboomerang-shield"}
                     ]
                 }
             ]

@@ -1,18 +1,18 @@
 [
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_transportershirt"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_transportershorts"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_transporterpants"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_transportershirt"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_transportershorts"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_transporterpants"} } ],
 	
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_reploid-antenna"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_reploid-earpiece"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_cyberneticear"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_cyberneticear-alt"} } ],
 	
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_reploidshiphatch"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_reploidshipdoor"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_reploidshiphatch"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_reploidshipdoor"} } ],
 	
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_wallclimb"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_wallclimbmkii"} } ],
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_x_dash"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_wallclimb"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_wallclimbmkii"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_x_dash"} } ],
 	
-	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"megaman_etank"} } ],
+	[ {"op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mm_etank"} } ],
 	[ { "op" : "add", "path" : "/defaultCodexes/reploid", "value" : [ "protectorate1", "protectorate2", "reploiddiary" ] } ]
 ]

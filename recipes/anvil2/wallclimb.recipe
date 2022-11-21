@@ -6,7 +6,7 @@
     }
   ],
   "output": {
-    "item": "megaman_wallclimb",
+    "item": "mm_wallclimb",
     "count": 1
   },
   "groups": [ "craftinganvil2", "hazardgear", "all" ]

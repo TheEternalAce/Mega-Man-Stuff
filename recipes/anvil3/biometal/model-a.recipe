@@ -5,6 +5,6 @@
     { "item": "refinedaegisalt", "count": 10 },
     { "item": "reddye", "count": 1 }
   ],
-  "output" : { "item" : "megaman_model-a", "count" : 1 },
+  "output" : { "item" : "mm_model-a", "count" : 1 },
   "groups" : [ "craftingcreator", "biometal", "all" ]
 }

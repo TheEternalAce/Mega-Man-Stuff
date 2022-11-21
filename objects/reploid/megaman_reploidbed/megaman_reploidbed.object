@@ -1,5 +1,5 @@
 {
-  "objectName" : "megaman_reploidbed",
+  "objectName" : "mm_reploidbed",
   "colonyTags" : ["misc","reploid"],
   "printable" : false,
   "rarity" : "Common",
@@ -22,17 +22,17 @@
   "sitPosition" : [-10, 13],
   "sitOrientation" : "lay",
   "sitAngle" : 90,
-  "sitCoverImage" : "/objects/reploid/megaman_reploidbed/megaman_reploidbedcover.png",
+  "sitCoverImage" : "/objects/reploid/mm_reploidbed/mm_reploidbedcover.png",
   "sitEmote" : "sleep",
   "sitStatusEffects" : [
     "bed3"
   ],
   "sitEffectEmitters" : [ "sleepbubbles" ],
 
-  "inventoryIcon" : "megaman_reploidbedicon.png",
+  "inventoryIcon" : "mm_reploidbedicon.png",
   "orientations" : [
     {
-      "dualImage" : "megaman_reploidbed.png:<color>",
+      "dualImage" : "mm_reploidbed.png:<color>",
 
       "imagePosition" : [-24, 0],
       "frames" : 1,

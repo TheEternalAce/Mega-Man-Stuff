@@ -7,7 +7,7 @@
     { "item" : "wire", "count" : 4 }
   ],
   "output" : {
-    "item" : "megaman_creatoraddon",
+    "item" : "mm_creatoraddon",
     "count" : 1
   },
   "duration" : 5,

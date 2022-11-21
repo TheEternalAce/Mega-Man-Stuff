@@ -6,6 +6,6 @@
     { "item": "purpledye", "count": 1 },
     { "item": "orangedye", "count": 1 }
   ],
-  "output" : { "item" : "megaman_model-w", "count" : 1 },
+  "output" : { "item" : "mm_model-w", "count" : 1 },
   "groups" : [ "craftingcreator", "biometal", "all" ]
 }

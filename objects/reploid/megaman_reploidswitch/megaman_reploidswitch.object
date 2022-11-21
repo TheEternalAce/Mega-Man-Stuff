@@ -1,5 +1,5 @@
 {
-  "objectName" : "megaman_reploidswitch",
+  "objectName" : "mm_reploidswitch",
   "colonyTags" : ["wired","reploid"],
   "printable" : false,
   "rarity" : "Common",
@@ -21,10 +21,10 @@
   "hylotlDescription" : "A control console.",
   "novakidDescription" : "Some kinda control console, I'll only push a few buttons...",
 
-  "inventoryIcon" : "megaman_reploidswitchicon.png",
+  "inventoryIcon" : "mm_reploidswitchicon.png",
   "orientations" : [
     {
-      "dualImage" : "megaman_reploidswitch.png:<color>.<frame>",
+      "dualImage" : "mm_reploidswitch.png:<color>.<frame>",
       "imagePosition" : [-8, 0],
 
       "spaceScan" : 0.1,
@@ -47,7 +47,7 @@
     }
   },
   "animationParts" : {
-    "switch" : "megaman_reploidswitch.png"
+    "switch" : "mm_reploidswitch.png"
   },
   "animationPosition" : [-8, 0],
 
