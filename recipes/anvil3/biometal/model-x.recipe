@@ -3,7 +3,7 @@
     { "item": "solariumstar", "count": 40 },
     { "item": "refinedferozium", "count": 10 },
     { "item": "refinedaegisalt", "count": 10 },
-    { "item": "bluedye", "count": 1 }
+    { "item": "mm_artificialcyberelf", "count": 1 }
   ],
   "output" : { "item" : "mm_model-x", "count" : 1 },
   "groups" : [ "craftingcreator", "biometal", "all" ]

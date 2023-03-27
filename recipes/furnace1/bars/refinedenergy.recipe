@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "mm_rawenergy", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "mm_refinedenergy",
+    "count" : 1
+  },
+  "duration" : 0.15,
+  "groups" : [ "craftingfurnace", "bars", "all" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "mm_refinedenergy",
+  "price" : 40,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "refinedenergy.png",
+  "description" : "Ore for Refined Energy Crystals is primarily found on planets orbiting gentle stars.",
+  "shortdescription" : "Refined EC",
+  "itemTags" : [ "reagent" ]
+}

@@ -359,11 +359,7 @@
         {
          "firstgid":2450,
          "source":"..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/liquids.json"
-        }, 
-        {
-         "firstgid":2478,
-         "source":"..\/..\/..\/tilesets\/mm_reploidtileset.json"
-        }, 
+        },
         {
          "firstgid":2490,
          "source":"..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/light.json"

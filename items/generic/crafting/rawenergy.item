@@ -1,0 +1,10 @@
+{
+  "itemName" : "mm_rawenergy",
+  "price" : 20,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "rawenergy.png",
+  "description" : "Raw Energy Crystal. Can be used for smelting.",
+  "shortdescription" : "Raw EC",
+  "itemTags" : [ "reagent" ]
+}

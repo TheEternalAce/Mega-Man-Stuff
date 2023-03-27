@@ -2,7 +2,7 @@
   "input": [
     { "item": "solariumstar", "count": 40 },
     { "item": "refinedviolium", "count": 20 },
-    { "item": "reddye", "count": 1 }
+    { "item": "mm_artificialcyberelf", "count": 1 }
   ],
   "output" : { "item" : "mm_model-o", "count" : 1 },
   "groups" : [ "craftingcreator", "biometal", "all" ]

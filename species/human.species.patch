@@ -222,5 +222,17 @@
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
     "value": { "item": "mm_zerosaber" }
+  },
+
+  // Materials
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "mm_refinedenergy" }
+  },
+  {
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "mm_artificialcyberelf" }
   }
 ]

@@ -1,0 +1,10 @@
+{
+  "itemName" : "mm_artificialcyberelf",
+  "price" : 40,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "artificialcyberelf.png",
+  "description" : "An artificial cyber-elf.",
+  "shortdescription" : "A.C.E.",
+  "itemTags" : [ "reagent" ]
+}

@@ -68,6 +68,9 @@
       { "item": "mm_model-x" },
       { "item": "mm_model-z" },
 
+      { "item": "mm_refinedenergy" },
+      { "item": "mm_artificialcyberelf" },
+
       { "item": "mm_chainrod" },
       { "item": "mm_recoilrod" },
       { "item": "mm_triplerod" },
